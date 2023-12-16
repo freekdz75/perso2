@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE 1 FHD" tvg-logo="" group-title="BE| CINEMA", BETV| BE 1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=136559&extension=ts&play_token=4ulLc5AlSq&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE 1 HD" tvg-logo="" group-title="BE| CINEMA", BETV| BE 1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=52470&extension=ts&play_token=IevABHORpQ&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE 1 HEVC" tvg-logo="" group-title="BE| CINEMA", BETV| BE 1 HEVC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=145274&extension=ts&play_token=H00VJeQztm&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE 1 +1 FHD" tvg-logo="" group-title="BE| CINEMA", BETV| BE 1 +1 FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=193085&extension=ts&play_token=UZwHJOC1U6&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE 1 +1 HD" tvg-logo="" group-title="BE| CINEMA", BETV| BE 1 +1 HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=193086&extension=ts&play_token=koDD9YdIn1&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE 1 +1 HEVC" tvg-logo="" group-title="BE| CINEMA", BETV| BE 1 +1 HEVC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=193087&extension=ts&play_token=gEUCvHL1G3&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE CINE FHD" tvg-logo="" group-title="BE| CINEMA", BETV| BE CINE FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=136554&extension=ts&play_token=PWEEgHO51b&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE CINE HD" tvg-logo="" group-title="BE| CINEMA", BETV| BE CINE HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=52471&extension=ts&play_token=t7kAjz7Kjm&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE CINE HEVC" tvg-logo="" group-title="BE| CINEMA", BETV| BE CINE HEVC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=145273&extension=ts&play_token=a2a50EqKfi&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE SERIE FHD" tvg-logo="" group-title="BE| CINEMA", BETV| BE SERIE FHD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=136539&extension=ts&play_token=OlQZrGK5jZ&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE SERIES HD" tvg-logo="" group-title="BE| CINEMA", BETV| BE SERIES HD
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=52472&extension=ts&play_token=XfGw6EhRsf&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="BETV| BE SERIES HEVC" tvg-logo="" group-title="BE| CINEMA", BETV| BE SERIES HEVC
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=145272&extension=ts&play_token=EyG1fFTPoz&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="|BO| BOLIVIA |BO|" tvg-logo="" group-title="FRANCE ", |BO| BOLIVIA |BO|
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=175143&extension=ts&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="=FR= A L'AFFICHE=FR=" tvg-logo="" group-title="FRANCE ", =FR= A L'AFFICHE=FR=
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=8371&extension=ts&play_token=CJPCEBpEuS&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="=FR=FILMS=FR=" tvg-logo="" group-title="FRANCE ", =FR=FILMS=FR=
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=9707&extension=ts&play_token=mjtL8Wc99e&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="=FR=DOCUMENTAIRES=FR=" tvg-logo="" group-title="FRANCE ", =FR=DOCUMENTAIRES=FR=
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=9702&extension=ts&play_token=e8MtmdvKiu&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="=FR=SPECTACLE=FR=" tvg-logo="" group-title="FRANCE ", =FR=SPECTACLE=FR=
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=9703&extension=ts&play_token=54WkeecNmO&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="=FR=CONCERTS=FR=" tvg-logo="" group-title="FRANCE ", =FR=CONCERTS=FR=
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=9704&extension=ts&play_token=Crp79WKS1h&sn2=
