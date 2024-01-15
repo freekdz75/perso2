@@ -2320,6 +2320,10 @@ http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=59053&extension
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=59304&extension=ts&play_token=eJ34jUV5LU&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORT NEWS" tvg-logo="" group-title="AR| BeIN MOVIE SPORT", AR| BEIN SPORT NEWS
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=59305&extension=ts&play_token=eERfyRK3A2&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 2 AFCON" tvg-logo="" group-title="AR| BeIN MOVIE SPORT", AR| BEIN SPORTS MAX 2 AFCON
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=725077&extension=ts&play_token=r8lijytxTn&sn2=
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS MAX 1 AFCON" tvg-logo="" group-title="AR| BeIN MOVIE SPORT", AR| BEIN SPORTS MAX 1 AFCON
+http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=725076&extension=ts&play_token=zbzneLZl57&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 FHD" tvg-logo="" group-title="AR| BeIN MOVIE SPORT", AR| BEIN SPORTS 1 FHD
 http://mol-2.com:8080/play/live.php?mac=00:1A:79:AA:76:83&stream=59306&extension=ts&play_token=UdLjlofoZ2&sn2=
 #EXTINF:-1 tvg-id="" tvg-name="AR| beIN SPORTS 1 HD" tvg-logo="" group-title="AR| BeIN MOVIE SPORT", AR| beIN SPORTS 1 HD
