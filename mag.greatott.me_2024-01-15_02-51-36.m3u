@@ -1,0 +1,885 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="##### ALGERIA #####" tvg-logo="" group-title="AR| ALGERIA", ##### ALGERIA #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=812197&extension=ts&play_token=wP2ezdUD7w
+#EXTINF:-1 tvg-id="" tvg-name="AR| EN TV ALGERIA" tvg-logo="" group-title="AR| ALGERIA", AR| EN TV ALGERIA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6724&extension=ts&play_token=1N2k8ojnmo
+#EXTINF:-1 tvg-id="" tvg-name="AR| CANAL ALGERIE" tvg-logo="" group-title="AR| ALGERIA", AR| CANAL ALGERIE
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6723&extension=ts&play_token=ZIrBxAMwtx
+#EXTINF:-1 tvg-id="" tvg-name="AR| A3 ALGERIE" tvg-logo="" group-title="AR| ALGERIA", AR| A3 ALGERIE
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6722&extension=ts&play_token=Jgb9X9zMUU
+#EXTINF:-1 tvg-id="" tvg-name="AR| TV 6 ALGERIE" tvg-logo="" group-title="AR| ALGERIA", AR| TV 6 ALGERIE
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=196191&extension=ts&play_token=hTJWFntyfD
+#EXTINF:-1 tvg-id="" tvg-name="AR| ECHOUROUK TV" tvg-logo="" group-title="AR| ALGERIA", AR| ECHOUROUK TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6715&extension=ts&play_token=YbFdyySSXv
+#EXTINF:-1 tvg-id="" tvg-name="AR| ECHOUROUK NEWS" tvg-logo="" group-title="AR| ALGERIA", AR| ECHOUROUK NEWS
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6716&extension=ts&play_token=33OFzUSDO4
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL HEDDAF TV" tvg-logo="" group-title="AR| ALGERIA", AR| EL HEDDAF TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6700&extension=ts&play_token=1IdCCshbPY
+#EXTINF:-1 tvg-id="" tvg-name="AR| SAMIRA TV" tvg-logo="" group-title="AR| ALGERIA", AR| SAMIRA TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6710&extension=ts&play_token=4E81RNASx5
+#EXTINF:-1 tvg-id="" tvg-name="AR| ZAHRA TV" tvg-logo="" group-title="AR| ALGERIA", AR| ZAHRA TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=828228&extension=ts&play_token=Gs2waOVqB2
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL BILAD" tvg-logo="" group-title="AR| ALGERIA", AR| EL BILAD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=21717&extension=ts&play_token=QN3xCKAfJl
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL DJAZAIRIA TV" tvg-logo="" group-title="AR| ALGERIA", AR| EL DJAZAIRIA TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6708&extension=ts&play_token=JGtWV1c7xj
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL ANIS" tvg-logo="" group-title="AR| ALGERIA", AR| AL ANIS
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=209712&extension=ts&play_token=b3gzwtzM9R
+#EXTINF:-1 tvg-id="" tvg-name="AR|  ALSIR TV 4K" tvg-logo="" group-title="AR| ALGERIA", AR|  ALSIR TV 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=976867&extension=ts&play_token=Pr0T4E7Tcm
+#EXTINF:-1 tvg-id="" tvg-name="AR| ENNAHAR TV" tvg-logo="" group-title="AR| ALGERIA", AR| ENNAHAR TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6717&extension=ts&play_token=tUJdXJDpBL
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL24 NEWS" tvg-logo="" group-title="AR| ALGERIA", AR| AL24 NEWS
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=819617&extension=ts&play_token=Nunlkqx6wm
+#EXTINF:-1 tvg-id="" tvg-name="AR| DZAIR JANNAH" tvg-logo="" group-title="AR| ALGERIA", AR| DZAIR JANNAH
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6709&extension=ts&play_token=qWgNbMjrJn
+#EXTINF:-1 tvg-id="" tvg-name="AR| BAHIA TV ORAN" tvg-logo="" group-title="AR| ALGERIA", AR| BAHIA TV ORAN
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6707&extension=ts&play_token=r87GU6n5Iy
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEUR TV" tvg-logo="" group-title="AR| ALGERIA", AR| BEUR TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6718&extension=ts&play_token=fpe8cfen3y
+#EXTINF:-1 tvg-id="" tvg-name="AR| BERBERE TV" tvg-logo="" group-title="AR| ALGERIA", AR| BERBERE TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6727&extension=ts&play_token=89lDdzoqnv
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL FADJR TV DZ" tvg-logo="" group-title="AR| ALGERIA", AR| EL FADJR TV DZ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6703&extension=ts&play_token=8zUqXxG9Hl
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL FAJR DRAMA" tvg-logo="" group-title="AR| ALGERIA", AR| EL FAJR DRAMA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=892110&extension=ts&play_token=neLsRF1XUc
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL HIKMA" tvg-logo="" group-title="AR| ALGERIA", AR| EL HIKMA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=809995&extension=ts&play_token=IJStgvGRj1
+#EXTINF:-1 tvg-id="" tvg-name="AR| TV CORAN ALGERIE" tvg-logo="" group-title="AR| ALGERIA", AR| TV CORAN ALGERIE
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6721&extension=ts&play_token=mqzriuHTrr
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALGERIE TAMAZIGH" tvg-logo="" group-title="AR| ALGERIA", AR| ALGERIE TAMAZIGH
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=6720&extension=ts&play_token=tZtCdalW3Z
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL ADJWAA TV DZ" tvg-logo="" group-title="AR| ALGERIA", AR| EL ADJWAA TV DZ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=u78CrAIaPn
+#EXTINF:-1 tvg-id="" tvg-name="AR| TV5 MAGHREB" tvg-logo="" group-title="AR| ALGERIA", AR| TV5 MAGHREB
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=8167&extension=ts&play_token=nq8xOm8uqZ
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL DJAZAIR N1" tvg-logo="" group-title="AR| ALGERIA", AR| EL DJAZAIR N1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=550005&extension=ts&play_token=6wbALDqGCu
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALGERIA 4 TAMAZIGHT" tvg-logo="" group-title="AR| ALGERIA", AR| ALGERIA 4 TAMAZIGHT
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=83669&extension=ts&play_token=gZgeiepy8U
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL THANYA" tvg-logo="" group-title="AR| ALGERIA", AR| AL THANYA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=83549&extension=ts&play_token=X8JD07MJhx
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL HAYAT ALGERIA" tvg-logo="" group-title="AR| ALGERIA", AR| EL HAYAT ALGERIA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=84254&extension=ts&play_token=eK88UqowL5
+#EXTINF:-1 tvg-id="" tvg-name="AR| CANAL ATLAS ALGERIA" tvg-logo="" group-title="AR| ALGERIA", AR| CANAL ATLAS ALGERIA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=274151&extension=ts&play_token=AocdWQ7d79
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALGÉRIE CANAL TV 2" tvg-logo="" group-title="AR| ALGERIA", AR| ALGÉRIE CANAL TV 2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518624&extension=ts&play_token=3OuJOAjONA
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEUR TV" tvg-logo="" group-title="AR| ALGERIA", AR| BEUR TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518623&extension=ts&play_token=AXAiOZQHub
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL DJAZAIRIA1" tvg-logo="" group-title="AR| ALGERIA", AR| EL DJAZAIRIA1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518620&extension=ts&play_token=Np9NdZqIlf
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALANES TV" tvg-logo="" group-title="AR| ALGERIA", AR| ALANES TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518619&extension=ts&play_token=nv9TE3tOiR
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALGERIAN 4KIDS" tvg-logo="" group-title="AR| ALGERIA", AR| ALGERIAN 4KIDS
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=892107&extension=ts&play_token=fkmPauDOr0
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SALAM" tvg-logo="" group-title="AR| ALGERIA", AR| AL SALAM
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518618&extension=ts&play_token=NXBfqgpAtZ
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL SAHRAA" tvg-logo="" group-title="AR| ALGERIA", AR| AL SAHRAA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518617&extension=ts&play_token=zO8VY1KTBW
+#EXTINF:-1 tvg-id="" tvg-name="AR| EL WATANIA TV ALGERIA" tvg-logo="" group-title="AR| ALGERIA", AR| EL WATANIA TV ALGERIA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518616&extension=ts&play_token=nFSZBGRzGv
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALGERIE ELMAARIFA TV7" tvg-logo="" group-title="AR| ALGERIA", AR| ALGERIE ELMAARIFA TV7
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518614&extension=ts&play_token=RLUL67R9CE
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALGERIE EN TV 1" tvg-logo="" group-title="AR| ALGERIA", AR| ALGERIE EN TV 1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518613&extension=ts&play_token=Vx10NLxarq
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALGERIE TV8 EDHAKIRA" tvg-logo="" group-title="AR| ALGERIA", AR| ALGERIE TV8 EDHAKIRA
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=518612&extension=ts&play_token=Asdxx07vTq
+#EXTINF:-1 tvg-id="" tvg-name="AR| AL ANIS TV" tvg-logo="" group-title="AR| ALGERIA", AR| AL ANIS TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=530382&extension=ts&play_token=Q8t8Fky9g4
+#EXTINF:-1 tvg-id="" tvg-name="AR| ALMAGHARIBIA TV" tvg-logo="" group-title="AR| ALGERIA", AR| ALMAGHARIBIA TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=509328&extension=ts&play_token=v1zvZteMyG
+#EXTINF:-1 tvg-id="" tvg-name="##### GENERAL FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### GENERAL FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=813293&extension=ts&play_token=gICgz1CCqA
+#EXTINF:-1 tvg-id="" tvg-name="FR| STAR ACADEMY FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| STAR ACADEMY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1363241&extension=ts&play_token=mcZDICXlSD
+#EXTINF:-1 tvg-id="" tvg-name="FR| TF1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TF1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506638&extension=ts&play_token=qo3az41vq2
+#EXTINF:-1 tvg-id="" tvg-name="FR| TF1 +1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TF1 +1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=814503&extension=ts&play_token=TiWSKHuLtj
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE 2 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| FRANCE 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506637&extension=ts&play_token=HKpkOLz8Kq
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE 3 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| FRANCE 3 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506636&extension=ts&play_token=XkmRwLoabi
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE 4 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| FRANCE 4 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506624&extension=ts&play_token=K5ehjDlGUk
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE 5 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| FRANCE 5 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506634&extension=ts&play_token=zvXCeF7VaH
+#EXTINF:-1 tvg-id="" tvg-name="FR| M6 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| M6 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506633&extension=ts&play_token=y3BalmPzfs
+#EXTINF:-1 tvg-id="" tvg-name="FR| ARTE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| ARTE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506632&extension=ts&play_token=Pjh7haFhx7
+#EXTINF:-1 tvg-id="" tvg-name="FR| W9 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| W9 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506629&extension=ts&play_token=81g8eN1gau
+#EXTINF:-1 tvg-id="" tvg-name="FR| NRJ 12 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NRJ 12 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506626&extension=ts&play_token=r5cmBSebPO
+#EXTINF:-1 tvg-id="" tvg-name="FR| TFX FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TFX FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506627&extension=ts&play_token=ugRji47Waf
+#EXTINF:-1 tvg-id="" tvg-name="FR| TF1 SÉRIES FILMS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TF1 SÉRIES FILMS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506620&extension=ts&play_token=sdLoIsa9X0
+#EXTINF:-1 tvg-id="" tvg-name="FR| 6TER FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| 6TER FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506618&extension=ts&play_token=x5aeZJULnb
+#EXTINF:-1 tvg-id="" tvg-name="FR| C8 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| C8 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506630&extension=ts&play_token=1afzz3oyEL
+#EXTINF:-1 tvg-id="" tvg-name="FR| TMC FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TMC FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506628&extension=ts&play_token=yn9qybztSR
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC STORY FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC STORY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506617&extension=ts&play_token=ijVLcP1O0V
+#EXTINF:-1 tvg-id="" tvg-name="FR| CHÉRIE 25 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CHÉRIE 25 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506615&extension=ts&play_token=rdWBAQYwmG
+#EXTINF:-1 tvg-id="" tvg-name="##### INFOS FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### INFOS FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=814575&extension=ts&play_token=UnSVLKIxsV
+#EXTINF:-1 tvg-id="" tvg-name="FR| LA CHAINE METEO FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| LA CHAINE METEO FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506660&extension=ts&play_token=pACOpwvbxK
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE INFO FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| FRANCE INFO FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506613&extension=ts&play_token=IHIIFOX5ak
+#EXTINF:-1 tvg-id="" tvg-name="FR| CNEWS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CNEWS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506622&extension=ts&play_token=NH09qh7eoi
+#EXTINF:-1 tvg-id="" tvg-name="FR| TV5MONDE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TV5MONDE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506567&extension=ts&play_token=UCAyyU75Uq
+#EXTINF:-1 tvg-id="" tvg-name="FR| LCI FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| LCI FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506614&extension=ts&play_token=jAuyXXRHsJ
+#EXTINF:-1 tvg-id="" tvg-name="FR| LCP 100% FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| LCP 100% FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506625&extension=ts&play_token=GOtV6tPbbo
+#EXTINF:-1 tvg-id="" tvg-name="FR| FRANCE 24 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| FRANCE 24 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506483&extension=ts&play_token=cHDMChQydI
+#EXTINF:-1 tvg-id="" tvg-name="FR| I24 NEWS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| I24 NEWS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506486&extension=ts&play_token=ki7SSe8Kid
+#EXTINF:-1 tvg-id="" tvg-name="FR| BFMTV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BFMTV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506623&extension=ts&play_token=ZdpoBbOTy8
+#EXTINF:-1 tvg-id="" tvg-name="FR| BFM BUSINESS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BFM BUSINESS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506487&extension=ts&play_token=f7VgUN5CFf
+#EXTINF:-1 tvg-id="" tvg-name="FR| BFM PARIS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BFM PARIS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506489&extension=ts&play_token=E2QNlSBtPs
+#EXTINF:-1 tvg-id="" tvg-name="FR| BFM LYON MÉTROPOLE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BFM LYON MÉTROPOLE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506488&extension=ts&play_token=sGuKG4xJCv
+#EXTINF:-1 tvg-id="" tvg-name="FR| BFM MARSEILLE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BFM MARSEILLE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1010106&extension=ts&play_token=iSBzXWjJVp
+#EXTINF:-1 tvg-id="" tvg-name="FR| RT FRANCE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RT FRANCE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506481&extension=ts&play_token=Jq2nLkcyNu
+#EXTINF:-1 tvg-id="" tvg-name="FR| PUBLIC SÉNAT FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| PUBLIC SÉNAT FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506482&extension=ts&play_token=FQsyw0zP4K
+#EXTINF:-1 tvg-id="" tvg-name="##### RMC SPORT FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### RMC SPORT FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=814556&extension=ts&play_token=JqMGDNjCP1
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC SPORT 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=xe6S4aewda
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT 2 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC SPORT 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506548&extension=ts&play_token=9ZaTRiLH06
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 5 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC SPORT LIVE 5 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506645&extension=ts&play_token=ZiPD6NXJmI
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 6 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC SPORT LIVE 6 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506646&extension=ts&play_token=ad0HHEWwxT
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 7 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC SPORT LIVE 7 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506647&extension=ts&play_token=Z94Qbatj94
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 8 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC SPORT LIVE 8 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506648&extension=ts&play_token=RFxqyPAE3E
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC SPORT LIVE 9 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC SPORT LIVE 9 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506649&extension=ts&play_token=PY14GtWllo
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506552&extension=ts&play_token=o1vu0UYbAl
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 2 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506551&extension=ts&play_token=ighUMdg8cu
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS 3 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS 3 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506550&extension=ts&play_token=E0HLXkjUxo
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 4 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS MAX 4 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506653&extension=ts&play_token=CQaIGN150F
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 5 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS MAX 5 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506654&extension=ts&play_token=LzRRjSP03l
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 6 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS MAX 6 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506655&extension=ts&play_token=jqBULt35JE
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 7 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS MAX 7 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506656&extension=ts&play_token=lzrv25e7wN
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 8 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS MAX 8 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506657&extension=ts&play_token=jd8sqHXo5z
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 9 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS MAX 9 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506658&extension=ts&play_token=ulcNYIGB3e
+#EXTINF:-1 tvg-id="" tvg-name="FR| BEIN SPORTS MAX 10 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BEIN SPORTS MAX 10 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506652&extension=ts&play_token=EJmC1BqQXo
+#EXTINF:-1 tvg-id="" tvg-name="##### SPORTS FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### SPORTS FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=814559&extension=ts&play_token=YeZIP9AoTj
+#EXTINF:-1 tvg-id="" tvg-name="FR| L'EQUIPE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| L'EQUIPE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506619&extension=ts&play_token=ahOF4nyoSk
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| EUROSPORT 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506559&extension=ts&play_token=z6DFnjElNK
+#EXTINF:-1 tvg-id="" tvg-name="FR| EUROSPORT 2 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| EUROSPORT 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506560&extension=ts&play_token=8O31hOuqyB
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 2 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MULTISPORTS 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506640&extension=ts&play_token=OzqH6wEGNG
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 3 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MULTISPORTS 3 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506641&extension=ts&play_token=wvWgVDyDuy
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 4 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MULTISPORTS 4 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506642&extension=ts&play_token=6GSEI6nqGL
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 5 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MULTISPORTS 5 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506643&extension=ts&play_token=1GJouF04Sf
+#EXTINF:-1 tvg-id="" tvg-name="FR| MULTISPORTS 6 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MULTISPORTS 6 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506644&extension=ts&play_token=e4vpgtAHxK
+#EXTINF:-1 tvg-id="" tvg-name="FR| FOOT+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| FOOT+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506539&extension=ts&play_token=lGgJJHx0DK
+#EXTINF:-1 tvg-id="" tvg-name="FR| INFOSPORT+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| INFOSPORT+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506562&extension=ts&play_token=lzwctaxWH1
+#EXTINF:-1 tvg-id="" tvg-name="FR| EQUIDIA FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| EQUIDIA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506543&extension=ts&play_token=DclqxxaSH7
+#EXTINF:-1 tvg-id="" tvg-name="FR| SPORT EN FRANCE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| SPORT EN FRANCE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506536&extension=ts&play_token=jL8Nxcm5mq
+#EXTINF:-1 tvg-id="" tvg-name="FR| AUTOMOTO LA CHAINE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| AUTOMOTO LA CHAINE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506545&extension=ts&play_token=CeTFRn47QD
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| GOLF+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506541&extension=ts&play_token=sUNojwquZc
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOLF CHANNEL FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| GOLF CHANNEL FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506542&extension=ts&play_token=DVKS2GE63e
+#EXTINF:-1 tvg-id="" tvg-name="FR| ES1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| ES1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506563&extension=ts&play_token=iLMRNmOuXN
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE SPORT STARS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TRACE SPORT STARS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=kbR7WLqmsg
+#EXTINF:-1 tvg-id="" tvg-name="FR| NFL GAME PASS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NFL GAME PASS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506538&extension=ts&play_token=PH4CtP59s1
+#EXTINF:-1 tvg-id="" tvg-name="##### CANAL+ FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### CANAL+ FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=813311&extension=ts&play_token=F9iCc5M04S
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ BOX OFFICE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1338522&extension=ts&play_token=Cdrzy5beJg
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506635&extension=ts&play_token=E1KcC3Z3bT
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ FOOT FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ FOOT FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1002837&extension=ts&play_token=3M0ZQFaYQE
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ 360 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ 360 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1002841&extension=ts&play_token=2EaHlWfMux
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ CINEMA FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ CINEMA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506612&extension=ts&play_token=hw4NuhW7X8
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ FAMILY FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ FAMILY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506611&extension=ts&play_token=40PpvJ2YY0
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ GRAND ECRAN FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ GRAND ECRAN FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=863794&extension=ts&play_token=qNSLl7c8K1
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ BOX OFFICE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ BOX OFFICE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=876361&extension=ts&play_token=0jMigJRmuT
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SERIES FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ SERIES FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506609&extension=ts&play_token=5AalHGQ0ZM
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ KIDS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ KIDS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=830359&extension=ts&play_token=gGSDMUA8G5
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ DOC FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ DOC FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=830357&extension=ts&play_token=BirXGXSSAE
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ SPORT FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506557&extension=ts&play_token=jMenyHJQGj
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ TOP14 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ TOP14 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506558&extension=ts&play_token=WDzRtGBjKj
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ PREMIER LEAGUE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ PREMIER LEAGUE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506556&extension=ts&play_token=aT5XV6mpKU
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ LIGUE1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506554&extension=ts&play_token=R6s71or8z4
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ LIGUE1 FHD (BK)" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ LIGUE1 FHD (BK)
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506555&extension=ts&play_token=QFvFDM5d27
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ FORMULA1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL+ FORMULA1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506553&extension=ts&play_token=a6KB77TxcJ
+#EXTINF:-1 tvg-id="" tvg-name="##### CINEMA FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### CINEMA FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=813320&extension=ts&play_token=lzD6YgKK84
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ PREMIER FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CINE+ PREMIER FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506607&extension=ts&play_token=K5i8Z8wWyN
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ FRISSON FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CINE+ FRISSON FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506606&extension=ts&play_token=EoEjL8GWMu
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ EMOTION FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CINE+ EMOTION FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506604&extension=ts&play_token=Gb2KNXvlUI
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ FAMIZ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CINE+ FAMIZ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506605&extension=ts&play_token=m8p8K2csDo
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ CLUB FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CINE+ CLUB FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506603&extension=ts&play_token=DrbYjqF7P6
+#EXTINF:-1 tvg-id="" tvg-name="FR| CINE+ CLASSIC FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CINE+ CLASSIC FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506602&extension=ts&play_token=m7kvNnIifr
+#EXTINF:-1 tvg-id="" tvg-name="FR| OCS MAX FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| OCS MAX FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506601&extension=ts&play_token=rXuZmaSL02
+#EXTINF:-1 tvg-id="" tvg-name="FR| OCS PULP FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| OCS PULP FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506599&extension=ts&play_token=5L8T1iuBkp
+#EXTINF:-1 tvg-id="" tvg-name="FR| OCS CHOC FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| OCS CHOC FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506598&extension=ts&play_token=qkSO34Ntct
+#EXTINF:-1 tvg-id="" tvg-name="FR| OCS GÉANTS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| OCS GÉANTS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506600&extension=ts&play_token=L6UWeL5YTw
+#EXTINF:-1 tvg-id="" tvg-name="FR| ALTICE STUDIO FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| ALTICE STUDIO FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506592&extension=ts&play_token=SfdJjoUGQX
+#EXTINF:-1 tvg-id="" tvg-name="FR| WARNER TV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| WARNER TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506586&extension=ts&play_token=tD347saueQ
+#EXTINF:-1 tvg-id="" tvg-name="FR| NOVELAS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NOVELAS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506581&extension=ts&play_token=e3624cHUCe
+#EXTINF:-1 tvg-id="" tvg-name="FR| POLAR+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| POLAR+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506587&extension=ts&play_token=70MxX6txNm
+#EXTINF:-1 tvg-id="" tvg-name="FR| CRIME DISTRICT FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CRIME DISTRICT FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506569&extension=ts&play_token=yyZDzd414y
+#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| PARAMOUNT FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506595&extension=ts&play_token=VAM2r6Lvka
+#EXTINF:-1 tvg-id="" tvg-name="FR| PARAMOUNT DÉCALÉ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| PARAMOUNT DÉCALÉ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506594&extension=ts&play_token=EQneqcdr2X
+#EXTINF:-1 tvg-id="" tvg-name="FR| TCM CINÉMA FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TCM CINÉMA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506596&extension=ts&play_token=pIg6jJL6vt
+#EXTINF:-1 tvg-id="" tvg-name="FR| ACTION FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| ACTION FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506593&extension=ts&play_token=7hFaTYWHsg
+#EXTINF:-1 tvg-id="" tvg-name="FR| MyCANAL 1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MyCANAL 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1052096&extension=ts&play_token=h2IGwQnC2x
+#EXTINF:-1 tvg-id="" tvg-name="FR| MyCANAL 2 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MyCANAL 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1052095&extension=ts&play_token=3PQRunkM15
+#EXTINF:-1 tvg-id="" tvg-name="FR| MyCANAL 3 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MyCANAL 3 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1052094&extension=ts&play_token=mQnNnAKlxk
+#EXTINF:-1 tvg-id="" tvg-name="FR| MyCANAL 4 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MyCANAL 4 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1052093&extension=ts&play_token=m5zveWdKcG
+#EXTINF:-1 tvg-id="" tvg-name="FR| MyCANAL 5 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MyCANAL 5 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1052092&extension=ts&play_token=VIGrGFYXnC
+#EXTINF:-1 tvg-id="" tvg-name="##### DIVERTISSEMENT FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### DIVERTISSEMENT FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=814506&extension=ts&play_token=65HcOr2Lf7
+#EXTINF:-1 tvg-id="" tvg-name="FR| STAND UP FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| STAND UP FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1062649&extension=ts&play_token=73Mu6kqb7X
+#EXTINF:-1 tvg-id="" tvg-name="FR| COMEDIE+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| COMEDIE+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506588&extension=ts&play_token=wUNeM2tJWm
+#EXTINF:-1 tvg-id="" tvg-name="FR| E! FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| E! FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506583&extension=ts&play_token=NWaMeyxcIU
+#EXTINF:-1 tvg-id="" tvg-name="FR| SYFY FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| SYFY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506570&extension=ts&play_token=ydTUXjMsUI
+#EXTINF:-1 tvg-id="" tvg-name="FR| 13EME RUE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| 13EME RUE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506591&extension=ts&play_token=4NTipK9Mim
+#EXTINF:-1 tvg-id="" tvg-name="FR| RTL 9 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RTL 9 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506571&extension=ts&play_token=JSYI8xJThu
+#EXTINF:-1 tvg-id="" tvg-name="FR| SERIE CLUB FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| SERIE CLUB FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506585&extension=ts&play_token=GYnHG4q7RH
+#EXTINF:-1 tvg-id="" tvg-name="FR| TÉVA FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TÉVA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506573&extension=ts&play_token=zgeW3FDOvQ
+#EXTINF:-1 tvg-id="" tvg-name="FR| AB1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| AB1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506576&extension=ts&play_token=noMSCopjBo
+#EXTINF:-1 tvg-id="" tvg-name="FR| TVBREIZH FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TVBREIZH FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506574&extension=ts&play_token=BYhyqyUjCq
+#EXTINF:-1 tvg-id="" tvg-name="FR| PARIS PREMIÈRE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| PARIS PREMIÈRE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506572&extension=ts&play_token=H2xHVSQi9l
+#EXTINF:-1 tvg-id="" tvg-name="FR| OLYMPIA FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| OLYMPIA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506589&extension=ts&play_token=vXAePq1XLW
+#EXTINF:-1 tvg-id="" tvg-name="FR| BET FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BET FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506568&extension=ts&play_token=YZw133e5aJ
+#EXTINF:-1 tvg-id="" tvg-name="FR| MUSEUM FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MUSEUM FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506530&extension=ts&play_token=0Dw6OaAhvv
+#EXTINF:-1 tvg-id="" tvg-name="FR| LUXE TV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| LUXE TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506564&extension=ts&play_token=cMYRxqU0PA
+#EXTINF:-1 tvg-id="" tvg-name="FR| COMEDY CENTRAL FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| COMEDY CENTRAL FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506566&extension=ts&play_token=wPBruCRM0J
+#EXTINF:-1 tvg-id="" tvg-name="FR| GOURMAND TV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| GOURMAND TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506565&extension=ts&play_token=J4oOkCExyT
+#EXTINF:-1 tvg-id="" tvg-name="##### DECOUVERTE FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### DECOUVERTE FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=814560&extension=ts&play_token=0DE0XlwziG
+#EXTINF:-1 tvg-id="" tvg-name="FR| PLANETE+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| PLANETE+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506535&extension=ts&play_token=OAudNiT5MK
+#EXTINF:-1 tvg-id="" tvg-name="FR| PLANETE+ CI FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| PLANETE+ CI FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506533&extension=ts&play_token=dhixhVR65r
+#EXTINF:-1 tvg-id="" tvg-name="FR| PLANETE+ A&E FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| PLANETE+ A&E FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506534&extension=ts&play_token=xeP7cMFiFO
+#EXTINF:-1 tvg-id="" tvg-name="FR| NATIONAL GEO FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NATIONAL GEO FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506529&extension=ts&play_token=r0JmWHNvW3
+#EXTINF:-1 tvg-id="" tvg-name="FR| NAT GEO WILD FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NAT GEO WILD FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506528&extension=ts&play_token=iXFkgX3YPR
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISCOVERY ID FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| DISCOVERY ID FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506517&extension=ts&play_token=Wnd0U7uAmb
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISCOVERY CHANNNEL FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| DISCOVERY CHANNNEL FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506519&extension=ts&play_token=ITt1o7EWJj
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISCOVERY SCIENCE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| DISCOVERY SCIENCE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506518&extension=ts&play_token=UtW3Mv0oJ5
+#EXTINF:-1 tvg-id="" tvg-name="FR| SEASONS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| SEASONS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=XiS9cfQ1yp
+#EXTINF:-1 tvg-id="" tvg-name="FR| TREK FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TREK FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=667909&extension=ts&play_token=bidppU7Tlb
+#EXTINF:-1 tvg-id="" tvg-name="FR| HISTOIRE TV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| HISTOIRE TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506526&extension=ts&play_token=WoiSy0hOC1
+#EXTINF:-1 tvg-id="" tvg-name="FR| TOUTE L'HISTOIRE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TOUTE L'HISTOIRE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506525&extension=ts&play_token=FqzwPIMd68
+#EXTINF:-1 tvg-id="" tvg-name="FR| SCIENCE ET VIE TV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| SCIENCE ET VIE TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506524&extension=ts&play_token=aSyW6JN7Dv
+#EXTINF:-1 tvg-id="" tvg-name="FR| RMC DÉCOUVERTE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RMC DÉCOUVERTE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506616&extension=ts&play_token=KDy0Htv0Jj
+#EXTINF:-1 tvg-id="" tvg-name="FR| ANIMAUX FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| ANIMAUX FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506523&extension=ts&play_token=AVjdHWlvtc
+#EXTINF:-1 tvg-id="" tvg-name="FR| USHUAÏA TV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| USHUAÏA TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506527&extension=ts&play_token=1brHiGRlMS
+#EXTINF:-1 tvg-id="" tvg-name="FR| CHASSE ET PÊCHE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CHASSE ET PÊCHE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506521&extension=ts&play_token=dEVwVlt5fa
+#EXTINF:-1 tvg-id="" tvg-name="FR| NAUTICAL CHANNEL FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NAUTICAL CHANNEL FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506520&extension=ts&play_token=48fDhG3yT9
+#EXTINF:-1 tvg-id="" tvg-name="FR| DUCK TV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| DUCK TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506500&extension=ts&play_token=BphDTYssaj
+#EXTINF:-1 tvg-id="" tvg-name="##### ENFANTS FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### ENFANTS FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=814561&extension=ts&play_token=2xRG3lNyL5
+#EXTINF:-1 tvg-id="" tvg-name="FR| TV PITCHOUN FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TV PITCHOUN FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506499&extension=ts&play_token=WdoZ11SF08
+#EXTINF:-1 tvg-id="" tvg-name="FR| TOONAMI FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TOONAMI FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506505&extension=ts&play_token=hRn6LD4pRN
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY CHANNEL FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| DISNEY CHANNEL FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506514&extension=ts&play_token=GTsDDE1vzG
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY CHANNEL +1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| DISNEY CHANNEL +1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1070157&extension=ts&play_token=7Ru5ILq1RY
+#EXTINF:-1 tvg-id="" tvg-name="FR| DISNEY JUNIOR FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| DISNEY JUNIOR FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506515&extension=ts&play_token=SlsF6zO43P
+#EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODEON FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NICKELODEON FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506512&extension=ts&play_token=YGXx2Oy6dw
+#EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODÉON +1 FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NICKELODÉON +1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506509&extension=ts&play_token=Tuo2nyYtvc
+#EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODEON JUNIOR FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NICKELODEON JUNIOR FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506510&extension=ts&play_token=tYutvDWOkI
+#EXTINF:-1 tvg-id="" tvg-name="FR| NICKELODEON TEEN FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NICKELODEON TEEN FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506511&extension=ts&play_token=X03JHqJmqf
+#EXTINF:-1 tvg-id="" tvg-name="FR| PIWI+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| PIWI+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506513&extension=ts&play_token=xbm3xQv7NG
+#EXTINF:-1 tvg-id="" tvg-name="FR| CARTOON NETWORK FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CARTOON NETWORK FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=647111&extension=ts&play_token=ifWv9Xtem0
+#EXTINF:-1 tvg-id="" tvg-name="FR| BOOMERANG FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BOOMERANG FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506508&extension=ts&play_token=xHapSLXorL
+#EXTINF:-1 tvg-id="" tvg-name="FR| BOING FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| BOING FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506507&extension=ts&play_token=owWodouPgy
+#EXTINF:-1 tvg-id="" tvg-name="FR| TELETOON+ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TELETOON+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506504&extension=ts&play_token=booyzOJKdh
+#EXTINF:-1 tvg-id="" tvg-name="FR| GULLI FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| GULLI FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506501&extension=ts&play_token=f3VaRD4Mhk
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL J FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CANAL J FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506506&extension=ts&play_token=GT3sJQA7ye
+#EXTINF:-1 tvg-id="" tvg-name="FR| TIJI FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TIJI FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506502&extension=ts&play_token=mdjAxcbS7X
+#EXTINF:-1 tvg-id="" tvg-name="FR| MANGAS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MANGAS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506577&extension=ts&play_token=h8liI3DPym
+#EXTINF:-1 tvg-id="" tvg-name="FR| GAME ONE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| GAME ONE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506579&extension=ts&play_token=88vm3ohh9G
+#EXTINF:-1 tvg-id="" tvg-name="FR| GAMETOON FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| GAMETOON FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506540&extension=ts&play_token=UqDu81jpz6
+#EXTINF:-1 tvg-id="" tvg-name="FR| J-ONE FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| J-ONE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506578&extension=ts&play_token=2XTAtWHN36
+#EXTINF:-1 tvg-id="" tvg-name="##### MUSIQUE FHD #####" tvg-logo="" group-title="FR| FRANCE FHD", ##### MUSIQUE FHD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=814562&extension=ts&play_token=GJ8noKvJlE
+#EXTINF:-1 tvg-id="" tvg-name="FR| M6 MUSIC FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| M6 MUSIC FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506496&extension=ts&play_token=nJBjEELfjl
+#EXTINF:-1 tvg-id="" tvg-name="FR| NRJ HITS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| NRJ HITS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506498&extension=ts&play_token=CcmNwEg9MM
+#EXTINF:-1 tvg-id="" tvg-name="FR| MCM FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MCM FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506580&extension=ts&play_token=u5MU5kekWK
+#EXTINF:-1 tvg-id="" tvg-name="FR| MTV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MTV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506584&extension=ts&play_token=v6C8oNjMeV
+#EXTINF:-1 tvg-id="" tvg-name="FR| MTV HITS FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MTV HITS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506497&extension=ts&play_token=xsXVmvz0HQ
+#EXTINF:-1 tvg-id="" tvg-name="FR| MELODY FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MELODY FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506492&extension=ts&play_token=tSwCOzFGwA
+#EXTINF:-1 tvg-id="" tvg-name="FR| CSTAR FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| CSTAR FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506621&extension=ts&play_token=7z9d4pXdc3
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE URBAN FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TRACE URBAN FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506495&extension=ts&play_token=R1IVyGClLA
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE LATINA FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TRACE LATINA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506494&extension=ts&play_token=3JOBjbSAte
+#EXTINF:-1 tvg-id="" tvg-name="FR| TRACE CARIBBEAN FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| TRACE CARIBBEAN FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506493&extension=ts&play_token=ok3Ca13YEw
+#EXTINF:-1 tvg-id="" tvg-name="FR| RFM TV FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| RFM TV FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=551807&extension=ts&play_token=i34OnQkhQL
+#EXTINF:-1 tvg-id="" tvg-name="FR| MEZZO FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MEZZO FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506490&extension=ts&play_token=NJcFM8611J
+#EXTINF:-1 tvg-id="" tvg-name="FR| MEZZO LIVE HD FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| MEZZO LIVE HD FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506491&extension=ts&play_token=XX60j08oGw
+#EXTINF:-1 tvg-id="" tvg-name="FR| DJAZZ FHD" tvg-logo="" group-title="FR| FRANCE FHD", FR| DJAZZ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=506661&extension=ts&play_token=8gWNEkFCoH
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 1 4K" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 1 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414636&extension=ts&play_token=8EDRK36G2L
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 1 HD" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414637&extension=ts&play_token=E6GTfuAbAR
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 1 SD" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 1 SD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414638&extension=ts&play_token=CI3Utg0YVP
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 2 4K" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 2 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414639&extension=ts&play_token=yzWCMt3xXn
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 2 HD" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414640&extension=ts&play_token=elD7pp11nb
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 2 SD" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 2 SD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414641&extension=ts&play_token=xEbfYar14U
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 3 4K" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 3 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414642&extension=ts&play_token=uIAUilzj4C
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 3 HD" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 3 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414643&extension=ts&play_token=V4rJh0smoD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 3 SD" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 3 SD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414644&extension=ts&play_token=uAUXn0WUuV
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 4 4K" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 4 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414645&extension=ts&play_token=BKKy8UnWjr
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 4 HD" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 4 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414646&extension=ts&play_token=im1xTQiblN
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS AFCON 4 SD" tvg-logo="" group-title="AR| BEIN SPORTS AFCON", AR| BEIN SPORTS AFCON 4 SD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1414647&extension=ts&play_token=WzLkX7k7A2
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 AFCON 8K ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 1 AFCON 8K ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424749&extension=ts&play_token=LfkTdJUDRN
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 AFCON 4K ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 1 AFCON 4K ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424748&extension=ts&play_token=0BEws6x3QZ
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 AFCON ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 1 AFCON ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424747&extension=ts&play_token=dAoyhJOLCP
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 AFCON" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 1 AFCON
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424746&extension=ts&play_token=pojBzZvaeS
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 AFCON 8K ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 2 AFCON 8K ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424750&extension=ts&play_token=BWTVW9pfXi
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 AFCON 4K ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 2 AFCON 4K ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424745&extension=ts&play_token=emjgZo2Dgz
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 AFCON ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 2 AFCON ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424744&extension=ts&play_token=y0G9NGBWTX
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 AFCON" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 2 AFCON
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424743&extension=ts&play_token=Cvw38FrG4f
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 ASIANCUP 8K ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 1 ASIANCUP 8K ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424742&extension=ts&play_token=Ndhp3kVah3
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 ASIANCUP 4K ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 1 ASIANCUP 4K ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424741&extension=ts&play_token=MVasG40jkd
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 ASIANCUP ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 1 ASIANCUP ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424740&extension=ts&play_token=ibMTbboLxo
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 ASIANCUP" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 1 ASIANCUP
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424739&extension=ts&play_token=WAEJiRKiYG
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 ASIANCUP 8K ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 2 ASIANCUP 8K ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424738&extension=ts&play_token=TBQZDpPwwe
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 ASIANCUP 4K ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 2 ASIANCUP 4K ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424737&extension=ts&play_token=BEULf8f4ZY
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 ASIANCUP ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 2 ASIANCUP ᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424736&extension=ts&play_token=wlS1w9I1eA
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 ASIANCUP" tvg-logo="" group-title="AR| BEIN SPORTS AS/AF 8K ᵁᴴᴰ", AR| BEIN SPORTS 2 ASIANCUP
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1424735&extension=ts&play_token=YhMSdxAryc
+#EXTINF:-1 tvg-id="" tvg-name="### BEIN SPORTS FHD ###" tvg-logo="" group-title="AR| BEIN SPORTS FHD", ### BEIN SPORTS FHD ###
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294774&extension=ts&play_token=NS3KBM8DNY
+#EXTINF:-1 tvg-id="" tvg-name="AR| TOD 360 ULTRA 4K ( EVENT ONLY )" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| TOD 360 ULTRA 4K ( EVENT ONLY )
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1347222&extension=ts&play_token=iHfK9dZMQ7
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 UHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 1 UHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1334894&extension=ts&play_token=tkMcUw86UD
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 UHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 2 UHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1334895&extension=ts&play_token=0WzpMqO1E3
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 3 UHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 3 UHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1334896&extension=ts&play_token=cxuwqZh26K
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS NEWS FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS NEWS FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294773&extension=ts&play_token=iDWjUugdaO
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS GLOBAL FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS GLOBAL FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294772&extension=ts&play_token=xDVFaNcj0C
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294764&extension=ts&play_token=yllXpyIBuF
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294763&extension=ts&play_token=ehRyE8y5nF
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 3 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 3 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294762&extension=ts&play_token=Vwrox2zWPC
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 4 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 4 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294761&extension=ts&play_token=Oma6ywpW0m
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 5 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 5 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294760&extension=ts&play_token=7yZO1MqDXp
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 6 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 6 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294759&extension=ts&play_token=KZXhzxWtR1
+#EXTINF:-1 tvg-id="" tvg-name="AR|  BEIN  SPORTS 7 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR|  BEIN  SPORTS 7 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294758&extension=ts&play_token=q3z4gvWWQy
+#EXTINF:-1 tvg-id="" tvg-name="AR|  BEIN  SPORTS 8 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR|  BEIN  SPORTS 8 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330412&extension=ts&play_token=OfDOaPaTnH
+#EXTINF:-1 tvg-id="" tvg-name="AR|  BEIN  SPORTS 9 FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR|  BEIN  SPORTS 9 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330413&extension=ts&play_token=NXLeno4SI1
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 XSTRA FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 1 XSTRA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294895&extension=ts&play_token=3JuPFJcPYn
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 XSTRA FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 2 XSTRA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1294894&extension=ts&play_token=7AJa4jWwwr
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 3 XSTRA FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 3 XSTRA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330411&extension=ts&play_token=xJym96YzqQ
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 ENGLISH FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 1 ENGLISH FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330419&extension=ts&play_token=Hm8bV1Vigq
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 ENGLISH FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 2 ENGLISH FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330418&extension=ts&play_token=Gp7vPxDaPt
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 1 FRANCE FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 1 FRANCE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330417&extension=ts&play_token=rLPsWS0oSi
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 2 FRANCE FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 2 FRANCE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330416&extension=ts&play_token=fElAxUGsd3
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS 3 FRANCE FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS 3 FRANCE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330415&extension=ts&play_token=rFdURBvENO
+#EXTINF:-1 tvg-id="" tvg-name="AR| BEIN SPORTS NBA FHD" tvg-logo="" group-title="AR| BEIN SPORTS FHD", AR| BEIN SPORTS NBA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1330414&extension=ts&play_token=tI0pFAtuXb
+#EXTINF:-1 tvg-id="" tvg-name="##### BEIN SPORTS HD #####" tvg-logo="" group-title="FR| SPORTS HD", ##### BEIN SPORTS HD #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=815046&extension=ts&play_token=oaPtxrqLnl
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 1 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507699&extension=ts&play_token=QrrVtmo7AB
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 1 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507698&extension=ts&play_token=sn4Pa3Wsvt
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 1 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 1 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507697&extension=ts&play_token=2E3Iiyr0QQ
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 2 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507696&extension=ts&play_token=L8qWAs2nfy
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 2 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507695&extension=ts&play_token=u7amfLCSxT
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 2 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 2 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507694&extension=ts&play_token=QjQ1gtT3gD
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 3 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 3 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507693&extension=ts&play_token=jqA4hERKnE
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 3 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 3 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507692&extension=ts&play_token=bdiqhyOFZh
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS 3 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS 3 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507691&extension=ts&play_token=JTtwF5EEbd
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 4 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS MAX 4 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507652&extension=ts&play_token=VspoA42nfN
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 5 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS MAX 5 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507651&extension=ts&play_token=AwaWAYRCFh
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 6 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS MAX 6 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507650&extension=ts&play_token=IWDnRZrB2r
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 7 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS MAX 7 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507649&extension=ts&play_token=voffMNA5nQ
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 8 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS MAX 8 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507648&extension=ts&play_token=UukYDmSP8i
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 9 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS MAX 9 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507647&extension=ts&play_token=lUAfoS1GGn
+#EXTINF:-1 tvg-id="" tvg-name="SP| BEIN SPORTS MAX 10 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| BEIN SPORTS MAX 10 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507646&extension=ts&play_token=12xCjyzkE5
+#EXTINF:-1 tvg-id="" tvg-name="##### CANAL+ #####" tvg-logo="" group-title="FR| SPORTS HD", ##### CANAL+ #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=815052&extension=ts&play_token=yvkzduSanm
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ 360 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ 360 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1002843&extension=ts&play_token=YR5xxMMD9Z
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ FOOT FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ FOOT FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1002842&extension=ts&play_token=MqwdtPAdzT
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ SPORT FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ SPORT FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507708&extension=ts&play_token=xjYf1vly06
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ SPORT HD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ SPORT HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507707&extension=ts&play_token=2nCH9nCT4v
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ SPORT LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ SPORT LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507706&extension=ts&play_token=N8IgnJoEU4
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 1" tvg-logo="" group-title="FR| SPORTS HD", FR| CANAL+ SPORT 1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=JEuCdd1gFJ
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 2" tvg-logo="" group-title="FR| SPORTS HD", FR| CANAL+ SPORT 2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=88az0GklRA
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 3" tvg-logo="" group-title="FR| SPORTS HD", FR| CANAL+ SPORT 3
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1421488&extension=ts&play_token=46O1JBgTNC
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 4" tvg-logo="" group-title="FR| SPORTS HD", FR| CANAL+ SPORT 4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=GKk919ayn0
+#EXTINF:-1 tvg-id="" tvg-name="FR| CANAL+ SPORT 5" tvg-logo="" group-title="FR| SPORTS HD", FR| CANAL+ SPORT 5
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1421490&extension=ts&play_token=NAZW9MZWmn
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ TOP 14 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ TOP 14 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507711&extension=ts&play_token=Rm8vroTYAY
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ TOP 14 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ TOP 14 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=534124&extension=ts&play_token=Cs7EjKkQOE
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ LIGUE1 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ LIGUE1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507713&extension=ts&play_token=1Hck2NY0hm
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ PL HD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ PL HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=0NkWTRxP0N
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ MOTOGP HD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ MOTOGP HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507710&extension=ts&play_token=UNc5G4XwdY
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ 4K+/UHD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ 4K+/UHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380013&extension=ts&play_token=dHVxdKopRu
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ SPORTS UHD/4K" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ SPORTS UHD/4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=YLMCmhUPiU
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENEMENT SPORT 4K+/UHD" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENEMENT SPORT 4K+/UHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=0JPAgvzMfa
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ LIGUE 1" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ LIGUE 1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380010&extension=ts&play_token=e2ybxJ5FIB
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ DAZN 1" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ DAZN 1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380009&extension=ts&play_token=T6sj1yMa2A
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 1" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT 1
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380008&extension=ts&play_token=eUOLmWWoOu
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 2" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT 2
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380007&extension=ts&play_token=HlziAMReOa
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 3" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT 3
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380006&extension=ts&play_token=mT77BgUgwf
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 4" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT 4
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380005&extension=ts&play_token=saZkos4dPZ
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 5" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT 5
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380004&extension=ts&play_token=rEFHT0SKSB
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT 6" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT 6
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380003&extension=ts&play_token=eQ0OLZ0hQJ
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 01" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT CANAL 01
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380002&extension=ts&play_token=AYaUABYYGc
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 02" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT CANAL 02
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380001&extension=ts&play_token=1xlC9e5wIZ
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 03" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT CANAL 03
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1380000&extension=ts&play_token=bpzBLnzklm
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 04" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT CANAL 04
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1379999&extension=ts&play_token=LsoIZVrMiw
+#EXTINF:-1 tvg-id="" tvg-name="SP| CANAL+ EVENT EXPERT CANAL 05" tvg-logo="" group-title="FR| SPORTS HD", SP| CANAL+ EVENT EXPERT CANAL 05
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1379998&extension=ts&play_token=1jFryd8ff7
+#EXTINF:-1 tvg-id="" tvg-name="##### RMC SPORT #####" tvg-logo="" group-title="FR| SPORTS HD", ##### RMC SPORT #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=815054&extension=ts&play_token=BOq4pc0Yws
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 1 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507689&extension=ts&play_token=0TOQF0lKLY
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 1 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507688&extension=ts&play_token=RRFJRqON3L
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 1 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 1 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507687&extension=ts&play_token=zyJt11XNzL
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 2 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 2 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507686&extension=ts&play_token=NMNFwGbiYs
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 2 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507685&extension=ts&play_token=vHcmBEDHb7
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 2 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 2 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507684&extension=ts&play_token=5KrAmIer0a
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 3 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 3 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1048798&extension=ts&play_token=bcHWI6VHjH
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 3 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 3 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=725381&extension=ts&play_token=G2etkTIggS
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 3 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 3 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1048797&extension=ts&play_token=xVRB8IKwhk
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT 4 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT 4 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=725380&extension=ts&play_token=nfs6FAQGwz
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT LIVE 5 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT LIVE 5 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507645&extension=ts&play_token=FAhXNt3Vaj
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT LIVE 6 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT LIVE 6 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507644&extension=ts&play_token=ni7JuC8uxx
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT LIVE 7 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT LIVE 7 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507643&extension=ts&play_token=kToBRNW1L7
+#EXTINF:-1 tvg-id="" tvg-name="SP| RMC SPORT LIVE 8 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| RMC SPORT LIVE 8 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507642&extension=ts&play_token=6QRYiSBB0j
+#EXTINF:-1 tvg-id="" tvg-name="##### SKWEEK #####" tvg-logo="" group-title="FR| SPORTS HD", ##### SKWEEK #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1338669&extension=ts&play_token=tjz6YZJVbH
+#EXTINF:-1 tvg-id="" tvg-name="FR| SKWEEK 1 HD" tvg-logo="" group-title="FR| SPORTS HD", FR| SKWEEK 1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1338668&extension=ts&play_token=S6FBUs33iV
+#EXTINF:-1 tvg-id="" tvg-name="FR| SKWEEK 2 HD" tvg-logo="" group-title="FR| SPORTS HD", FR| SKWEEK 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=PzvuDUvYkQ
+#EXTINF:-1 tvg-id="" tvg-name="FR| SKWEEK 3 HD" tvg-logo="" group-title="FR| SPORTS HD", FR| SKWEEK 3 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=lK0wOULxEs
+#EXTINF:-1 tvg-id="" tvg-name="FR| SKWEEK 4 HD" tvg-logo="" group-title="FR| SPORTS HD", FR| SKWEEK 4 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=Fj6Tu5TSXd
+#EXTINF:-1 tvg-id="" tvg-name="FR| SKWEEK 5 HD" tvg-logo="" group-title="FR| SPORTS HD", FR| SKWEEK 5 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=PFjxaDaBgh
+#EXTINF:-1 tvg-id="" tvg-name="FR| SKWEEK 6 HD" tvg-logo="" group-title="FR| SPORTS HD", FR| SKWEEK 6 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=q9XLYFBBoF
+#EXTINF:-1 tvg-id="" tvg-name="FR| SKWEEK 7 HD" tvg-logo="" group-title="FR| SPORTS HD", FR| SKWEEK 7 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=b40r2I2TeU
+#EXTINF:-1 tvg-id="" tvg-name="FR| SKWEEK 8 HD" tvg-logo="" group-title="FR| SPORTS HD", FR| SKWEEK 8 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=9wLgpUubBd
+#EXTINF:-1 tvg-id="" tvg-name="##### FRANCE SPORT #####" tvg-logo="" group-title="FR| SPORTS HD", ##### FRANCE SPORT #####
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=815109&extension=ts&play_token=0Tdl9PeEE3
+#EXTINF:-1 tvg-id="" tvg-name="SP| INFOSPORT+ FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| INFOSPORT+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507705&extension=ts&play_token=aKoy3pZoyq
+#EXTINF:-1 tvg-id="" tvg-name="SP| INFOSPORT+ HD" tvg-logo="" group-title="FR| SPORTS HD", SP| INFOSPORT+ HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507704&extension=ts&play_token=s2B903rW1p
+#EXTINF:-1 tvg-id="" tvg-name="SP| INFOSPORT+ LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| INFOSPORT+ LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507703&extension=ts&play_token=HDv4wqCRZO
+#EXTINF:-1 tvg-id="" tvg-name="SP| EQUIDIA FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| EQUIDIA FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507671&extension=ts&play_token=s0OKwqgDVE
+#EXTINF:-1 tvg-id="" tvg-name="SP| EQUIDIA HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EQUIDIA HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507670&extension=ts&play_token=hZXbPZQ8wY
+#EXTINF:-1 tvg-id="" tvg-name="SP| EQUIDIA LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| EQUIDIA LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=r3wKi6d1hK
+#EXTINF:-1 tvg-id="" tvg-name="SP| L'EQUIPE FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| L'EQUIPE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507668&extension=ts&play_token=TPVUjI8RkD
+#EXTINF:-1 tvg-id="" tvg-name="SP| L'EQUIPE HD" tvg-logo="" group-title="FR| SPORTS HD", SP| L'EQUIPE HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507667&extension=ts&play_token=kkTrQtZCEx
+#EXTINF:-1 tvg-id="" tvg-name="SP| L'EQUIPE LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| L'EQUIPE LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=zft2nizrMa
+#EXTINF:-1 tvg-id="" tvg-name="SP| FOOT+ 24/24 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| FOOT+ 24/24 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507683&extension=ts&play_token=sV4jaxbfQo
+#EXTINF:-1 tvg-id="" tvg-name="SP| FOOT+ 24/24 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| FOOT+ 24/24 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507682&extension=ts&play_token=JkdLse8vOf
+#EXTINF:-1 tvg-id="" tvg-name="SP| FOOT+ 24/24 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| FOOT+ 24/24 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507681&extension=ts&play_token=IgH5lp0R0a
+#EXTINF:-1 tvg-id="" tvg-name="SP| OL TV HD" tvg-logo="" group-title="FR| SPORTS HD", SP| OL TV HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507665&extension=ts&play_token=G3iE3rRlso
+#EXTINF:-1 tvg-id="" tvg-name="SP| OL TV LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| OL TV LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507664&extension=ts&play_token=yiiMDBnSZp
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 1 FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 1 FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507702&extension=ts&play_token=1nRa7a0w72
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 1 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507701&extension=ts&play_token=ybiQuTuXzl
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 2 LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 2 LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507700&extension=ts&play_token=ikvBwCrdRJ
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 1 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 360 1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1360877&extension=ts&play_token=KjLAoEDpwY
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 2 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 360 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1360876&extension=ts&play_token=oLj7xEDAoA
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 3 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 360 3 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1360875&extension=ts&play_token=UaEdDmJbsc
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 4 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 360 4 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1360874&extension=ts&play_token=RHKiFfEaam
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 5 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 360 5 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1360873&extension=ts&play_token=XPSvwaILhl
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 6 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 360 6 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1360872&extension=ts&play_token=54gTrfoBfH
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 7 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 360 7 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1360871&extension=ts&play_token=VomIUwXiuh
+#EXTINF:-1 tvg-id="" tvg-name="SP| EUROSPORT 360 8 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| EUROSPORT 360 8 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1360870&extension=ts&play_token=AV4MMOBEtO
+#EXTINF:-1 tvg-id="" tvg-name="SP| SPORT EN FRANCE FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| SPORT EN FRANCE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507663&extension=ts&play_token=CoaFTuitx2
+#EXTINF:-1 tvg-id="" tvg-name="SP| SPORT EN FRANCE HD" tvg-logo="" group-title="FR| SPORTS HD", SP| SPORT EN FRANCE HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507662&extension=ts&play_token=T9oMH6Ty7h
+#EXTINF:-1 tvg-id="" tvg-name="SP| SPORT EN FRANCE LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| SPORT EN FRANCE LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=NrYAzVbbpB
+#EXTINF:-1 tvg-id="" tvg-name="SP| AUTOMOTO LA CHAINE FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| AUTOMOTO LA CHAINE FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507674&extension=ts&play_token=FcxaBgh6kd
+#EXTINF:-1 tvg-id="" tvg-name="SP| AUTOMOTO LA CHAINE HD" tvg-logo="" group-title="FR| SPORTS HD", SP| AUTOMOTO LA CHAINE HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507673&extension=ts&play_token=tUOr7RZeSk
+#EXTINF:-1 tvg-id="" tvg-name="SP| AUTOMOTO LA CHAINE LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| AUTOMOTO LA CHAINE LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507672&extension=ts&play_token=BT6vI8Uin8
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 1 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| MULTISPORTS 1 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507633&extension=ts&play_token=u8AzYVZqM9
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 2 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| MULTISPORTS 2 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507632&extension=ts&play_token=SVZ4UQUAQp
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 3 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| MULTISPORTS 3 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507631&extension=ts&play_token=QgprMV3bkg
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 4 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| MULTISPORTS 4 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507630&extension=ts&play_token=FpYknsNgwL
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 5 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| MULTISPORTS 5 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507629&extension=ts&play_token=SWCflio57F
+#EXTINF:-1 tvg-id="" tvg-name="SP| MULTISPORTS 6 HD" tvg-logo="" group-title="FR| SPORTS HD", SP| MULTISPORTS 6 HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507628&extension=ts&play_token=OyI8YoCum0
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF+ FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| GOLF+ FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507680&extension=ts&play_token=4tbV4FrvTo
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF+ HD" tvg-logo="" group-title="FR| SPORTS HD", SP| GOLF+ HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507679&extension=ts&play_token=aXuOv3Lckr
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF+ LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| GOLF+ LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=k1jsDWZUkF
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF CHANNEL FHD" tvg-logo="" group-title="FR| SPORTS HD", SP| GOLF CHANNEL FHD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507677&extension=ts&play_token=QskJWgiWKX
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF CHANNEL HD" tvg-logo="" group-title="FR| SPORTS HD", SP| GOLF CHANNEL HD
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507676&extension=ts&play_token=aJM8we8m5f
+#EXTINF:-1 tvg-id="" tvg-name="SP| GOLF CHANNEL LQ" tvg-logo="" group-title="FR| SPORTS HD", SP| GOLF CHANNEL LQ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=507675&extension=ts&play_token=zGkV9Lu8us
+#EXTINF:-1 tvg-id="" tvg-name="FR| SPORT EN FRANCE" tvg-logo="" group-title="FR| SPORTS HD", FR| SPORT EN FRANCE
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=889031&extension=ts&play_token=k4RThFbzKb
+#EXTINF:-1 tvg-id="" tvg-name="FR| MOTORSPORT.TV" tvg-logo="" group-title="FR| SPORTS HD", FR| MOTORSPORT.TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=lqoyURuneQ
+#EXTINF:-1 tvg-id="" tvg-name="FR| SURF WORLD TV" tvg-logo="" group-title="FR| SPORTS HD", FR| SURF WORLD TV
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=gn13IY4lCZ
+#EXTINF:-1 tvg-id="" tvg-name="FR| WORLD POKER TOUR" tvg-logo="" group-title="FR| SPORTS HD", FR| WORLD POKER TOUR
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=889032&extension=ts&play_token=5On3PEDnjf
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS NEWS ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS NEWS ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=9gjdWSAR5j
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS GLOBAL ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS GLOBAL ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=&extension=ts&play_token=JgRY2GFvAH
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS1 ᵁᴴᴰ8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS1 ᵁᴴᴰ8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411396&extension=ts&play_token=nBLD25rhZz
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS2 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS2 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411395&extension=ts&play_token=pLLIwZxDIi
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS3 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS3 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411394&extension=ts&play_token=04Pj3sSEIV
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS4 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS4 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411393&extension=ts&play_token=7H0WQQYdT7
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS5 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS5 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411392&extension=ts&play_token=ZeuB1v3kHf
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS6 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS6 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411391&extension=ts&play_token=3QEcieQ1fb
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS7 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS7 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411390&extension=ts&play_token=uDKlo0ws18
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS8 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS8 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411389&extension=ts&play_token=NTGF1WpHwS
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS9 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS9 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411388&extension=ts&play_token=KeRipMyxJO
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX1 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS MAX1 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411387&extension=ts&play_token=3ZmCzc3Zum
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS MAX2 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS MAX2 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411386&extension=ts&play_token=xNrjqJZG7L
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA1 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS XTRA1 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411385&extension=ts&play_token=1QuDvJLkWE
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS XTRA 2 ᵁᴴᴰ 8K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411384&extension=ts&play_token=eb5xFxgzbm
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS1 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS1 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411383&extension=ts&play_token=GF1jPrnbHm
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS2 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS2 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411382&extension=ts&play_token=lUgwRD1mcQ
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS3 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS3 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411381&extension=ts&play_token=3FGngHxhr2
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS4 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS4 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411380&extension=ts&play_token=EqpLHnxOSg
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS5 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS5 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411379&extension=ts&play_token=VycxNlAzSF
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS6 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS6 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411378&extension=ts&play_token=wSTutd5DSc
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS7 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS7 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411377&extension=ts&play_token=zV02MaObDI
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS8 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS8 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411376&extension=ts&play_token=FtfAqkmuQ1
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS9 ᵁᴴᴰ 4K" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS9 ᵁᴴᴰ 4K
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411375&extension=ts&play_token=1k0H5iP2Vf
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS1 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS1 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411374&extension=ts&play_token=WNOT3f8ygV
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS2 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS2 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411373&extension=ts&play_token=CocPUOusMm
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS3 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS3 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411372&extension=ts&play_token=MrNVHXZwdY
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS4 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS4 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411371&extension=ts&play_token=pbmDZWETXq
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS5 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS5 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411370&extension=ts&play_token=YETHCWpNEG
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS6 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS6 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411369&extension=ts&play_token=CB7KRHWeb7
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS7 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS7 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411368&extension=ts&play_token=p3SahFAVgw
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS8 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS8 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411367&extension=ts&play_token=W1KGN7m3pc
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS9 Gᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS 8K ᵁᴴᴰ", BEIN SPORTS9 Gᵁᴴᴰ
+http://mag.greatott.me:80/play/live.php?mac=00:1A:79:B2:6E:60&stream=1411366&extension=ts&play_token=4X1PlvZkZv
