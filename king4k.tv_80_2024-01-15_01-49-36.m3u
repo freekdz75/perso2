@@ -1,0 +1,1247 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="#### GÉNÉRAL HD/4K ####" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", #### GÉNÉRAL HD/4K ####
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=398865&extension=ts&play_token=ypIVCts2ux
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TF1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207138&extension=ts&play_token=kxFwd2gmgJ
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TF1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106975&extension=ts&play_token=gLwsz7Kp4P
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 (UHD)" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TF1 (UHD)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220807&extension=ts&play_token=DY2qfpvI0d
+#EXTINF:-1 tvg-id="" tvg-name="FR: TF1 +1 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TF1 +1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220809&extension=ts&play_token=LyyFGXRKS1
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106901&extension=ts&play_token=Ul76m0DBNh
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 2 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207139&extension=ts&play_token=cLUvcThsU3
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207140&extension=ts&play_token=Sitr99k3LP
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106903&extension=ts&play_token=BNTYNH7hBO
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 3 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220791&extension=ts&play_token=HK9hTWuT0h
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106904&extension=ts&play_token=bYhmvhnoxE
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207141&extension=ts&play_token=Fu6ZKm8taN
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 4 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220790&extension=ts&play_token=AbPM7hDXRE
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 5 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106905&extension=ts&play_token=wl4BgpjDlG
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207142&extension=ts&play_token=HbdUDiuPgw
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 5 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220789&extension=ts&play_token=TeJtGgwSVu
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 24 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106902&extension=ts&play_token=sm2dxikZIZ
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE 24 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE 24 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207149&extension=ts&play_token=0E26F2jXgA
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE INFO HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE INFO HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207215&extension=ts&play_token=Zge03QYbQM
+#EXTINF:-1 tvg-id="" tvg-name="FR: FRANCE Ô HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: FRANCE Ô HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207143&extension=ts&play_token=fjoBgbmo8Q
+#EXTINF:-1 tvg-id="" tvg-name="FR: STAR  ACADEMY 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: STAR  ACADEMY 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636899&extension=ts&play_token=nQcaCioMT5
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13EME Rue 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: 13EME Rue 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106931&extension=ts&play_token=KVd0PRbvw5
+#EXTINF:-1 tvg-id="" tvg-name="FR: 13 EME RUE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: 13 EME RUE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207211&extension=ts&play_token=CF7uMsZr6D
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6 TER HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: 6 TER HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207188&extension=ts&play_token=gnHdQq36xt
+#EXTINF:-1 tvg-id="" tvg-name="FR: 6TER 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: 6TER 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106932&extension=ts&play_token=r8cOvUxc1V
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB Moteur HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: AB Moteur HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220893&extension=ts&play_token=M2RlOjHRF4
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: ARTE 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106935&extension=ts&play_token=iw6fZ6Dnl5
+#EXTINF:-1 tvg-id="" tvg-name="FR: ARTE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: ARTE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207145&extension=ts&play_token=fdOXMk3SPq
+#EXTINF:-1 tvg-id="" tvg-name="FR: BET HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: BET HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207184&extension=ts&play_token=s78ibzeLZU
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM Lyon 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: BFM Lyon 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=570546&extension=ts&play_token=sFHqHPG7k4
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: BFM 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106926&extension=ts&play_token=sPUijdenuV
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: BFM TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=413905&extension=ts&play_token=0xzl45s3N1
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM BUSINESS HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: BFM BUSINESS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207213&extension=ts&play_token=kDNThkR33q
+#EXTINF:-1 tvg-id="" tvg-name="FR: BRAVA HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: BRAVA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220999&extension=ts&play_token=pXDD3TnqHS
+#EXTINF:-1 tvg-id="" tvg-name="FR: BFM TV HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: BFM TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207229&extension=ts&play_token=Lw5DzDeQjl
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: C8 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=107012&extension=ts&play_token=J5Qo9gDEp4
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: C8 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106930&extension=ts&play_token=dcxjb3gGOq
+#EXTINF:-1 tvg-id="" tvg-name="FR: C8 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: C8 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207185&extension=ts&play_token=ecTsAVOXHo
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE & PÊCHE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CHASSE & PÊCHE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207210&extension=ts&play_token=8Bgjk6C8dR
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE ET PECHE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CHASSE ET PECHE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220843&extension=ts&play_token=svyKp3czR7
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHASSE PECHE 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CHASSE PECHE 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106927&extension=ts&play_token=GsBzx0vPAw
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CHERIE 25 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106938&extension=ts&play_token=4FBjpmjuqW
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE 25 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CHERIE 25 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207189&extension=ts&play_token=luIBPdQQiV
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIE25 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CHERIE25 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220787&extension=ts&play_token=EISwhc35Y1
+#EXTINF:-1 tvg-id="" tvg-name="FR: CNEWS HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CNEWS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207151&extension=ts&play_token=cu3llIFC0L
+#EXTINF:-1 tvg-id="" tvg-name="FR: CRIME DISTRICT 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CRIME DISTRICT 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=107016&extension=ts&play_token=wzTtRcdGZJ
+#EXTINF:-1 tvg-id="" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CRIME DISTRICT HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207254&extension=ts&play_token=yHr83k27mw
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CSTAR 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106939&extension=ts&play_token=xgCRj0Fkgo
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: CSTAR HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207212&extension=ts&play_token=W8jC2NbLOe
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! ENTERTAINMENT 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: E! ENTERTAINMENT 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106944&extension=ts&play_token=pHIzG1DEwn
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! Entertainment HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: E! Entertainment HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220987&extension=ts&play_token=xDmKCOP9mu
+#EXTINF:-1 tvg-id="" tvg-name="FR: E! ENTERTAINMENT SD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: E! ENTERTAINMENT SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207253&extension=ts&play_token=250pXwsZRG
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURO CHANNEL" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: EURO CHANNEL
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207147&extension=ts&play_token=CnF7NOlEBN
+#EXTINF:-1 tvg-id="" tvg-name="FR: EURONEWS HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: EURONEWS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207150&extension=ts&play_token=XyBiZkhixd
+#EXTINF:-1 tvg-id="" tvg-name="FR: I24 NEWS 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: I24 NEWS 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=630319&extension=ts&play_token=fmCEOIyrXr
+#EXTINF:-1 tvg-id="" tvg-name="FR: IL-TV HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: IL-TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220986&extension=ts&play_token=29aoGkyP1Z
+#EXTINF:-1 tvg-id="" tvg-name="FR: L'EQUIPE 21 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: L'EQUIPE 21 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207256&extension=ts&play_token=KyoZGzvdKO
+#EXTINF:-1 tvg-id="" tvg-name="FR: L'EQUIPE 21 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: L'EQUIPE 21 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106945&extension=ts&play_token=8w3Mlwo3VZ
+#EXTINF:-1 tvg-id="" tvg-name="FR: LA CHAINE METEO 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: LA CHAINE METEO 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=638914&extension=ts&play_token=sBw4aqbujw
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: LCI 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106952&extension=ts&play_token=s7Gd00LXfE
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCI HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: LCI HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207214&extension=ts&play_token=7Dc0lwYwaQ
+#EXTINF:-1 tvg-id="" tvg-name="FR: LCP HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: LCP HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207252&extension=ts&play_token=x4DxzmzXWP
+#EXTINF:-1 tvg-id="" tvg-name="FR: LUXE TV 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: LUXE TV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106953&extension=ts&play_token=BEyz3scyjg
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 (UHD)" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: M6 (UHD)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220808&extension=ts&play_token=y06ecOecFU
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: M6 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106954&extension=ts&play_token=DmuPdwt1Rr
+#EXTINF:-1 tvg-id="" tvg-name="FR: M6 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: M6 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207144&extension=ts&play_token=bgvIBlf2of
+#EXTINF:-1 tvg-id="" tvg-name="FR: MELODY 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MELODY 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=253655&extension=ts&play_token=5hOZD79gI8
+#EXTINF:-1 tvg-id="" tvg-name="FR: MELODY HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MELODY HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=253654&extension=ts&play_token=OeVVIQqzBZ
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MTV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106956&extension=ts&play_token=VK2mrIyCMv
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV FRANCE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MTV FRANCE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207172&extension=ts&play_token=kqiGgJTluM
+#EXTINF:-1 tvg-id="" tvg-name="FR: MTV LIVE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MTV LIVE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207174&extension=ts&play_token=vFQjdScLWp
+#EXTINF:-1 tvg-id="" tvg-name="FR: MUSEUM 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MUSEUM 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220868&extension=ts&play_token=ao5O4Am8yj
+#EXTINF:-1 tvg-id="" tvg-name="FR: MUSEUM HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MUSEUM HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220869&extension=ts&play_token=EacgeKw48W
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MY CUISINE 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=&extension=ts&play_token=zwSBLRVsVj
+#EXTINF:-1 tvg-id="" tvg-name="FR: MY CUISINE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: MY CUISINE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=&extension=ts&play_token=hBuez3b1fE
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 1 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: My CANAL 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=654392&extension=ts&play_token=wNSsyzNPWk
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 2 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: My CANAL 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=654393&extension=ts&play_token=iCnN0SUgCW
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 3 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: My CANAL 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=654394&extension=ts&play_token=bJtxWRNTxH
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 4 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: My CANAL 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=654395&extension=ts&play_token=4MWg4WvcUc
+#EXTINF:-1 tvg-id="" tvg-name="FR: My CANAL 5 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: My CANAL 5 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=654396&extension=ts&play_token=JWs2wae2Q4
+#EXTINF:-1 tvg-id="" tvg-name="FR: NOVELAS 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: NOVELAS 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=216723&extension=ts&play_token=26ch9ZZomc
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ 12 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: NRJ 12 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=536697&extension=ts&play_token=26gG2dKom3
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: NRJ HITS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207249&extension=ts&play_token=SUWgW2cTYk
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ HITS HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: NRJ HITS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207175&extension=ts&play_token=a3aiYuLkAZ
+#EXTINF:-1 tvg-id="" tvg-name="FR: NRJ12 HITS HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: NRJ12 HITS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=221015&extension=ts&play_token=rHH0spkuBE
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: OCS CHOC 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106965&extension=ts&play_token=1LN6L54EKI
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CHOC HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: OCS CHOC HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207166&extension=ts&play_token=6Gya7wN64U
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: OCS CITY 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106966&extension=ts&play_token=NBe0U8Ilfx
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS CITY HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: OCS CITY HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207165&extension=ts&play_token=6wvcg9Yr4g
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GEANT HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: OCS GEANT HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207167&extension=ts&play_token=rjpSZ70Cp7
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS GEANTS 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: OCS GEANTS 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106967&extension=ts&play_token=Ox6KxGUXpw
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: OCS MAX 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106968&extension=ts&play_token=vAFFMY7fgi
+#EXTINF:-1 tvg-id="" tvg-name="FR: OCS MAX HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: OCS MAX HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207164&extension=ts&play_token=xqLHV7Bosi
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PARAMOUNT CHANNEL 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106969&extension=ts&play_token=wY3q9qGe3G
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARAMOUNT CHANNEL HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PARAMOUNT CHANNEL HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207168&extension=ts&play_token=uDIZahugex
+#EXTINF:-1 tvg-id="" tvg-name="FR: PARIS PREMIERE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PARIS PREMIERE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207182&extension=ts&play_token=DjMmU4aYYV
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANET PLUS HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PLANET PLUS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220847&extension=ts&play_token=e1H5ui1dn1
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE A&E HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PLANETE A&E HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207192&extension=ts&play_token=RHTZWTADSV
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE A-E HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PLANETE A-E HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220846&extension=ts&play_token=NVcyOdVyMk
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE CI HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PLANETE CI HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207193&extension=ts&play_token=JU2imZ8bcQ
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ A&E 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PLANETE+ A&E 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106971&extension=ts&play_token=gaHJ7Jt9xl
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ CI 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PLANETE+ CI 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106972&extension=ts&play_token=ccBqRYtPKr
+#EXTINF:-1 tvg-id="" tvg-name="FR: PLANETE+ HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: PLANETE+ HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207191&extension=ts&play_token=CUgUYxRqvJ
+#EXTINF:-1 tvg-id="" tvg-name="FR: POLAR+ 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: POLAR+ 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106920&extension=ts&play_token=JB6EQhAeZA
+#EXTINF:-1 tvg-id="" tvg-name="FR: Record News HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: Record News HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=221011&extension=ts&play_token=LFg4jsJXQm
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RFM TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207251&extension=ts&play_token=6HkCSRurqC
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RFM TV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106973&extension=ts&play_token=Bfb1cKTg2O
+#EXTINF:-1 tvg-id="" tvg-name="FR: RFM TV HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RFM TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=221001&extension=ts&play_token=Go6jrosHaT
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC DECOUVERTE 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RMC DECOUVERTE 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165076&extension=ts&play_token=r5A8F6EIin
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Decouverte HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RMC Decouverte HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220845&extension=ts&play_token=c1xsGWorRV
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC STORY 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RMC STORY 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165078&extension=ts&play_token=riDh29KNlU
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC STORY HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RMC STORY HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220867&extension=ts&play_token=Hu0zXkBJ1m
+#EXTINF:-1 tvg-id="" tvg-name="FR: ROUGE TV HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: ROUGE TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220812&extension=ts&play_token=1rdtl9VjnN
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RTL9 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106924&extension=ts&play_token=5VFUJZj2O9
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTL9 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: RTL9 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207183&extension=ts&play_token=7ktdLdOuWy
+#EXTINF:-1 tvg-id="" tvg-name="FR: Real Time HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: Real Time HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=413908&extension=ts&play_token=JvRlrQegW3
+#EXTINF:-1 tvg-id="" tvg-name="FR: SEASON HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: SEASON HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220842&extension=ts&play_token=GcqLhCEuqQ
+#EXTINF:-1 tvg-id="" tvg-name="FR: SERIE CLUB HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: SERIE CLUB HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207171&extension=ts&play_token=3y3AIr2k84
+#EXTINF:-1 tvg-id="" tvg-name="FR: SYFY HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: SYFY HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207170&extension=ts&play_token=tytdAygw1X
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TEVA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106974&extension=ts&play_token=tvbsNq9nF3
+#EXTINF:-1 tvg-id="" tvg-name="FR: TEVA HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TEVA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207181&extension=ts&play_token=iENAZi8aMQ
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TFX 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106977&extension=ts&play_token=KhjeqmRFHd
+#EXTINF:-1 tvg-id="" tvg-name="FR: TFX HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TFX HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207255&extension=ts&play_token=SkFE0h9S9W
+#EXTINF:-1 tvg-id="" tvg-name="FR: Tiji HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: Tiji HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106978&extension=ts&play_token=fzhbCMDb0d
+#EXTINF:-1 tvg-id="" tvg-name="FR: TIJI HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TIJI HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207235&extension=ts&play_token=sal7kV4pjE
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TMC HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106925&extension=ts&play_token=GoXk417TNj
+#EXTINF:-1 tvg-id="" tvg-name="FR: TMC HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TMC HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207187&extension=ts&play_token=PaAZG4XG7e
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE TROPICAL" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TRACE TROPICAL
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207246&extension=ts&play_token=JhusCijZi0
+#EXTINF:-1 tvg-id="" tvg-name="FR: TRACE URBAN HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TRACE URBAN HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207190&extension=ts&play_token=1pLz1CCJu4
+#EXTINF:-1 tvg-id="" tvg-name="FR: TREK HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TREK HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207209&extension=ts&play_token=8wnMlk8TQf
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TV BREIZH 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106980&extension=ts&play_token=aXKzw6e509
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV BREIZH HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TV BREIZH HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207180&extension=ts&play_token=SE5IjuK5co
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TV5 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106981&extension=ts&play_token=FRHm4jT4ib
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: TV5 MONDE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220786&extension=ts&play_token=7G54o0jl5Y
+#EXTINF:-1 tvg-id="" tvg-name="FR: USHUAIA 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: USHUAIA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106982&extension=ts&play_token=Fq0zOjMwfX
+#EXTINF:-1 tvg-id="" tvg-name="FR: USHUAIA TV HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: USHUAIA TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207203&extension=ts&play_token=mmBGmqamOm
+#EXTINF:-1 tvg-id="" tvg-name="FR: VICELAND HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: VICELAND HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207194&extension=ts&play_token=p3H0Y0nmJR
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: W9 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207186&extension=ts&play_token=KMLNsS3yR3
+#EXTINF:-1 tvg-id="" tvg-name="FR: W9 4K" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: W9 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106984&extension=ts&play_token=uo6eElrHo7
+#EXTINF:-1 tvg-id="" tvg-name="FR: WEO HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: WEO HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220985&extension=ts&play_token=okOD4GBdt7
+#EXTINF:-1 tvg-id="" tvg-name="FR: F3 ALSACE HD" tvg-logo="" group-title="FR| GÉNÉRAL HD/4K", FR: F3 ALSACE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=413907&extension=ts&play_token=TRF6UsV7jW
+#EXTINF:-1 tvg-id="" tvg-name="##### beIN SP⚽RTS F #####" tvg-logo="" group-title="AR| BEIN SPORTS F", ##### beIN SP⚽RTS F #####
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=546974&extension=ts&play_token=0gUVS7GCUc
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 1 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252077&extension=ts&play_token=KDEyneG2pc
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 2 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 2 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252078&extension=ts&play_token=JDaqXm2C85
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 3 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 3 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252079&extension=ts&play_token=K7qwggWEuB
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 4 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 4 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252080&extension=ts&play_token=270bFCuQxL
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 5 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 5 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252081&extension=ts&play_token=bSebgXDxow
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 6 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 6 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252082&extension=ts&play_token=IV04CgtmCN
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 7 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 7 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252083&extension=ts&play_token=PsCj8w73D2
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 8 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 8 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252084&extension=ts&play_token=kiN1LYkr06
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 9 F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 9 F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252085&extension=ts&play_token=KDrmtzpo7K
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 XTRA F 4K" tvg-logo="" group-title="AR| BEIN SPORTS F", AR: beIN Sp⚽rts 1 XTRA F 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252086&extension=ts&play_token=UgDsmdgm46
+#EXTINF:-1 tvg-id="" tvg-name="###### SPORT 4K ######" tvg-logo="" group-title="AR| ARABIC SPORT 4K", ###### SPORT 4K ######
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=252011&extension=ts&play_token=yNvUNAyj1c
+#EXTINF:-1 tvg-id="" tvg-name="SPO: STC (LIVE EVENT)" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: STC (LIVE EVENT)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=509268&extension=ts&play_token=VpYK1WgRas
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SAHSAH 4K ( EVENT ONLY )" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: SAHSAH 4K ( EVENT ONLY )
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=669791&extension=ts&play_token=MN72Ct7mA9
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 1 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3120&extension=ts&play_token=lxW3jHjKje
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 1 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498849&extension=ts&play_token=lMTQFRPhxY
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 2 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3121&extension=ts&play_token=CSPwMjoAHi
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 2 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498883&extension=ts&play_token=WK1Zcvvw0Y
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 3 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=314634&extension=ts&play_token=1ksEOcvEOQ
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 3 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498886&extension=ts&play_token=9Envzz5vEU
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 4 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3122&extension=ts&play_token=0l2vhxUWEP
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 4 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498884&extension=ts&play_token=xh1r4JXSUU
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 5 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 5 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=120449&extension=ts&play_token=I83r83t2El
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 5 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=457287&extension=ts&play_token=sLxqPes8Kh
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 6 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 6 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=314636&extension=ts&play_token=CuIz4Z39ul
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 9 4K (LIVE EVENT ONLY)" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 9 4K (LIVE EVENT ONLY)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=478760&extension=ts&play_token=u7cKkNt1TD
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Kass 9 HD (LIVE EVENT ONLY)" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Kass 9 HD (LIVE EVENT ONLY)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=478759&extension=ts&play_token=aIgn8fg742
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Saudia Sport 1 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Saudia Sport 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=346050&extension=ts&play_token=twrv889Mwf
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Saudia Sport 1 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Saudia Sport 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498847&extension=ts&play_token=TRlqRyTFoi
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Saudia Sport 2 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Saudia Sport 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=346052&extension=ts&play_token=zaoHWDJw6j
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Saudia Sport 3 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Saudia Sport 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=346051&extension=ts&play_token=xwnDjIlDUy
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Saudia Sport 3 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Saudia Sport 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498848&extension=ts&play_token=AGQivUdz3Q
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Saudia Sport 4 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Saudia Sport 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=346053&extension=ts&play_token=4Qea0SfiRd
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Fajer 1 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Fajer 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=288142&extension=ts&play_token=q6AaqMW7U2
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Fajer 2 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Fajer 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=288143&extension=ts&play_token=H7i2ghrTjw
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Fajer 3 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Fajer 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=288144&extension=ts&play_token=lBpGoCSWEs
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Fajer 4 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Fajer 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=288145&extension=ts&play_token=Bq10cclXJO
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Fajer 5 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Fajer 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=288146&extension=ts&play_token=CsO2tjxcPG
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SPORT-5-ARABIC-EVENT" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: SPORT-5-ARABIC-EVENT
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=439965&extension=ts&play_token=cPQE7qiuDK
+#EXTINF:-1 tvg-id="" tvg-name="SPO: PROGRAMME NATIONAL HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: PROGRAMME NATIONAL HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=670887&extension=ts&play_token=dCIwwcQAbC
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Rabiaa Sport 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Rabiaa Sport 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=302193&extension=ts&play_token=RWqr8VJEm9
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Rabiaa Sport HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Rabiaa Sport HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498887&extension=ts&play_token=Qtbb9L4ORB
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Bahrain Sport 1 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Bahrain Sport 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4201&extension=ts&play_token=K12t61AI7F
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Bahrain Sport 2 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Bahrain Sport 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4200&extension=ts&play_token=QCXbhiNyO0
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Dubai Racing 1 TV 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Dubai Racing 1 TV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3088&extension=ts&play_token=z42IksBc4t
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Dubai Racing 1 TV HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Dubai Racing 1 TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=497864&extension=ts&play_token=oOX3ufGPSe
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Dubai Racing 2 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Dubai Racing 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3238&extension=ts&play_token=Xfb8nsns0o
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Dubai Racing 3 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Dubai Racing 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4199&extension=ts&play_token=8NuYLL87MQ
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Dubai Sport 1 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Dubai Sport 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3109&extension=ts&play_token=SnPzQnrk0B
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Dubai Sport 1 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Dubai Sport 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=497866&extension=ts&play_token=XVXYZpZPIJ
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Dubai Sport 2 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Dubai Sport 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4187&extension=ts&play_token=W73e7FKMLj
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Dubai Sport 3" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Dubai Sport 3
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=8263&extension=ts&play_token=an3FVTpcqt
+#EXTINF:-1 tvg-id="" tvg-name="SPO: EXTRA ACTION 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: EXTRA ACTION 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=290835&extension=ts&play_token=l3L9Tg8uQX
+#EXTINF:-1 tvg-id="" tvg-name="SPO: EXTRA ACTION HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: EXTRA ACTION HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=290836&extension=ts&play_token=aVNWpb3EBo
+#EXTINF:-1 tvg-id="" tvg-name="SPO: FIGHT SPORT 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: FIGHT SPORT 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=289322&extension=ts&play_token=stUp9oDKZl
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Horyaa Riyadiya HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Horyaa Riyadiya HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=288152&extension=ts&play_token=JHC8VU3Wqf
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Iraqia Sport 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Iraqia Sport 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=7128&extension=ts&play_token=D1foNKQXIu
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Iraqia Sport HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Iraqia Sport HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498166&extension=ts&play_token=jaqzIzDnPo
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Jordan Sport 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Jordan Sport 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3245&extension=ts&play_token=md4IGmZMO3
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Jordan Sport HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Jordan Sport HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498888&extension=ts&play_token=tX1u1sZtxD
+#EXTINF:-1 tvg-id="" tvg-name="SPO: KAS Sport 1 Plus" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: KAS Sport 1 Plus
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3268&extension=ts&play_token=HJjPPPOSQs
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Kuwait Sport 1 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Kuwait Sport 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4190&extension=ts&play_token=3MAkuZbQaS
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Kuwait Sports 2 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Kuwait Sports 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4354&extension=ts&play_token=aRM8KkZOLW
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Libya Sport 1 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Libya Sport 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=395684&extension=ts&play_token=yOLdScJPIT
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Libya Sport 1 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Libya Sport 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=497865&extension=ts&play_token=i6PLG0r3I5
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Libya Sport 2 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Libya Sport 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=212651&extension=ts&play_token=o0SGREI3qD
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Libya Sport 2 HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Libya Sport 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=499082&extension=ts&play_token=JdtIf0Phqa
+#EXTINF:-1 tvg-id="" tvg-name="SPO: New Libya Sport TV 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: New Libya Sport TV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=488683&extension=ts&play_token=Mi2cutTRGs
+#EXTINF:-1 tvg-id="" tvg-name="SPO: New Libya Sport TV HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: New Libya Sport TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=499081&extension=ts&play_token=i4NBfej8MY
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Oman Sport TV" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Oman Sport TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=225040&extension=ts&play_token=UcHabMWVXu
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Nile Sport" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Nile Sport
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3161&extension=ts&play_token=32tHLhhplM
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Al Ahly TV 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Al Ahly TV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4334&extension=ts&play_token=6OPlpbOwBR
+#EXTINF:-1 tvg-id="" tvg-name="SPO: ON Time Sport ◉" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: ON Time Sport ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=414813&extension=ts&play_token=acb42m83nC
+#EXTINF:-1 tvg-id="" tvg-name="SPO: ON Time Sport 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: ON Time Sport 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4186&extension=ts&play_token=jhRsiiMPnl
+#EXTINF:-1 tvg-id="" tvg-name="SPO: ON Time Sports 2 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: ON Time Sports 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=100462&extension=ts&play_token=DWNIFhSwzT
+#EXTINF:-1 tvg-id="" tvg-name="SPO: ON Time Sports 2 ◉" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: ON Time Sports 2 ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=414814&extension=ts&play_token=6L4Y2BCsuw
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Palestine Sport HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Palestine Sport HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3265&extension=ts&play_token=5rFGVEG6Au
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Saudia Sport 3 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Saudia Sport 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4193&extension=ts&play_token=fiSiRnDNqX
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SHARJAH SPORT 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: SHARJAH SPORT 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=2322&extension=ts&play_token=pX5EXhvIkh
+#EXTINF:-1 tvg-id="" tvg-name="SPO: SHARJAH SPORT HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: SHARJAH SPORT HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=513593&extension=ts&play_token=QYcoVovGSl
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Yas Sport HD" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Yas Sport HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=498846&extension=ts&play_token=TyHWWpeQGC
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Yas Sport 4K" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Yas Sport 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3125&extension=ts&play_token=mMTyccVKOm
+#EXTINF:-1 tvg-id="" tvg-name="SPO: Zamalek Sports" tvg-logo="" group-title="AR| ARABIC SPORT 4K", SPO: Zamalek Sports
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=20005&extension=ts&play_token=IaJcDi4Adn
+#EXTINF:-1 tvg-id="" tvg-name="####### beIN SP⚽RTS AFCON #######" tvg-logo="" group-title="AR| BEIN AFCON CUP", ####### beIN SP⚽RTS AFCON #######
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661631&extension=ts&play_token=TrmR0moQkl
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 1 HD" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661630&extension=ts&play_token=DybREUmejM
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 2 HD" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661629&extension=ts&play_token=MvGf0xNEGF
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 3 EN HD" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 3 EN HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661628&extension=ts&play_token=lIpQyPuuEB
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 4 FR HD" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 4 FR HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661627&extension=ts&play_token=mBHRtoU0D0
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 1 SD" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 1 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661618&extension=ts&play_token=M3GaVZtc4a
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 2 SD" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 2 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661617&extension=ts&play_token=BIPmZQSP1M
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 3 EN SD" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 3 EN SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661616&extension=ts&play_token=2kpqpCmW8y
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 4 FR SD" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 4 FR SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661615&extension=ts&play_token=3ux0Wm7R5y
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 1 4K" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661624&extension=ts&play_token=wjX73jQFZx
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 2 4K" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661623&extension=ts&play_token=GvxvenDkij
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 3 EN 4K" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 3 EN 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661622&extension=ts&play_token=3uYDrIqgsj
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 4 FR 4K" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 4 FR 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661621&extension=ts&play_token=L1v0yrgC8L
+#EXTINF:-1 tvg-id="" tvg-name="##### beIN SP⚽RTS AFCON ◉ #####" tvg-logo="" group-title="AR| BEIN AFCON CUP", ##### beIN SP⚽RTS AFCON ◉ #####
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=678379&extension=ts&play_token=H3ZJ6whrud
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 1 HD ◉" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 1 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=678378&extension=ts&play_token=87hRKw6DCZ
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 2 HD ◉" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 2 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=678377&extension=ts&play_token=NXJKYiQGrS
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 1 SD ◉" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 1 SD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=678376&extension=ts&play_token=dm3iuATuyD
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 2 SD ◉" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 2 SD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=678375&extension=ts&play_token=zFFB1fZnXA
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 1 4K ◉" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 1 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=678374&extension=ts&play_token=8JeBdHBeYy
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS AFCON 2 4K ◉" tvg-logo="" group-title="AR| BEIN AFCON CUP", AR: beIN SP⚽RTS AFCON 2 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=678373&extension=ts&play_token=KB0HJ38ISR
+#EXTINF:-1 tvg-id="" tvg-name="#### beIN SP⚽RTS AFCON TELEKOM/ISP ####" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", #### beIN SP⚽RTS AFCON TELEKOM/ISP ####
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661650&extension=ts&play_token=iLGN5IkoyO
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 1 HD" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661649&extension=ts&play_token=K8367O2Z5E
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 2 HD" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661648&extension=ts&play_token=dTqs3NvvMn
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 3 EN HD" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 3 EN HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661647&extension=ts&play_token=fMC8uxH9Zp
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 4 FR HD" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 4 FR HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661646&extension=ts&play_token=rh1GS4owtF
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 1 SD" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 1 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661637&extension=ts&play_token=lmqBRryJgW
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 2 SD" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 2 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661636&extension=ts&play_token=9BQWzyRsxG
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 3 EN SD" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 3 EN SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661635&extension=ts&play_token=B3RIE5FCLI
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 4 FR SD" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 4 FR SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661634&extension=ts&play_token=0OTikwh4rB
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 1 4K" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661643&extension=ts&play_token=xFLLXc8dM8
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 2 4K" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661642&extension=ts&play_token=EZIFjKoXsU
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 3 EN 4K" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 3 EN 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661641&extension=ts&play_token=4uQBTih6I4
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS AFCON 4 FR 4K" tvg-logo="" group-title="AR| BEIN AFCON CUP TELEKOM", TK: beIN SP⚽RTS AFCON 4 FR 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=661640&extension=ts&play_token=Tyld02ZBYg
+#EXTINF:-1 tvg-id="" tvg-name="####### SSC TELEKOM ISP #######" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", ####### SSC TELEKOM ISP #######
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640476&extension=ts&play_token=rnmdO2QH6X
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC NEWS HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC NEWS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640475&extension=ts&play_token=wXwjoadT6k
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 4K 1280P ᵁᴴᴰ" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 4K 1280P ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640470&extension=ts&play_token=CvU4LHTV4y
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 1 HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640468&extension=ts&play_token=fGh8BPF63h
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 2 HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640465&extension=ts&play_token=DFzKV5ZzIQ
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 3 HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640462&extension=ts&play_token=y53eBzj7Wr
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 4 HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640459&extension=ts&play_token=fnB8ZsaJGt
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 5 HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640456&extension=ts&play_token=TLADYApmTP
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 1 EXTRA HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 1 EXTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640453&extension=ts&play_token=6Dy0y5CLO5
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 2 EXTRA HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 2 EXTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640450&extension=ts&play_token=GglMNshQlT
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 3 EXTRA HD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 3 EXTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640447&extension=ts&play_token=r5ZWcdH7ge
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC NEWS SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC NEWS SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640474&extension=ts&play_token=fcDY4Hv1Gu
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 4K 720P ᵁᴴᴰ" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 4K 720P ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640469&extension=ts&play_token=v5VEv8wMLK
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 1 SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 1 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640467&extension=ts&play_token=cLOnJNn3YK
+#EXTINF:-1 tvg-id="" tvg-name="TELEKOM: SSC 2 SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TELEKOM: SSC 2 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640464&extension=ts&play_token=b1AiQcKweD
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 3 SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 3 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640461&extension=ts&play_token=YzuwIMtwt3
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 4 SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 4 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640458&extension=ts&play_token=s1pfzZtabc
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 5 SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 5 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640455&extension=ts&play_token=8vdl5Ie9Op
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 1 EXTRA SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 1 EXTRA SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640452&extension=ts&play_token=fJPujYoRPT
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 2 EXTRA SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 2 EXTRA SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640449&extension=ts&play_token=ZiN98IvseW
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 3 EXTRA SD" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 3 EXTRA SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640446&extension=ts&play_token=W8r8DWTFc3
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC NEWS 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC NEWS 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640473&extension=ts&play_token=M2jDACMmEm
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 4K 2160P ᵁᴴᴰ" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 4K 2160P ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640472&extension=ts&play_token=9ZdpRsgmT9
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 4K 1920P ᵁᴴᴰ" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 4K 1920P ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640471&extension=ts&play_token=2bmX5vDdju
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 1 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640466&extension=ts&play_token=UaO5iwcaxT
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 2 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640463&extension=ts&play_token=CGzbwvtK21
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 3 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640460&extension=ts&play_token=b0FvdHjYW8
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 4 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640457&extension=ts&play_token=Ytb6Mtzx2q
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 5 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 5 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640454&extension=ts&play_token=x78bH1na0s
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 1 EXTRA 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 1 EXTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640451&extension=ts&play_token=Z7bSaN2lIU
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 2 EXTRA 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 2 EXTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640448&extension=ts&play_token=u4OYjmjo4n
+#EXTINF:-1 tvg-id="" tvg-name="TK: SSC 3 EXTRA 4K" tvg-logo="" group-title="AR| SSC TELEKOM ISP [MULTI AUDIO]", TK: SSC 3 EXTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=640445&extension=ts&play_token=jJdHeL1hbf
+#EXTINF:-1 tvg-id="" tvg-name="####### SSC VIP #######" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", ####### SSC VIP #######
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=546992&extension=ts&play_token=h4UvHjQwRh
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC NEWS HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC NEWS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=363050&extension=ts&play_token=CCadiuobaT
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 4K 1280P ᵁᴴᴰ" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 4K 1280P ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=533511&extension=ts&play_token=XUVOhv35BU
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 1 HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301068&extension=ts&play_token=3RlkE0uD6g
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 2 HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301066&extension=ts&play_token=6Sot4yd9QJ
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 3 HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301064&extension=ts&play_token=q9iUsgFKLO
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 4 HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301062&extension=ts&play_token=5hEBbbUDDJ
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 5 HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301060&extension=ts&play_token=oD8VfpW1TH
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 1 EXTRA HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 1 EXTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301058&extension=ts&play_token=DCXWZu4UU8
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 2 EXTRA HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 2 EXTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301056&extension=ts&play_token=MaPV1LHRBk
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 3 EXTRA HD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 3 EXTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=394574&extension=ts&play_token=dZmhlrFgwm
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC NEWS SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC NEWS SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=513329&extension=ts&play_token=JqIyiVLZXE
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 4K 720P ᵁᴴᴰ" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 4K 720P ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=533510&extension=ts&play_token=fHQitcYGFR
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 1 SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 1 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=306049&extension=ts&play_token=hWMuKYQzOw
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 2 SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 2 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=306048&extension=ts&play_token=p484uOMYkZ
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 3 SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 3 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=306047&extension=ts&play_token=PAuh8YTenc
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 4 SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 4 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=306046&extension=ts&play_token=1KkKcmH7zj
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 5 SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 5 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=306045&extension=ts&play_token=t6otXtGEmC
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 1 EXTRA SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 1 EXTRA SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=306044&extension=ts&play_token=i5pMsYL2Na
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 2 EXTRA SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 2 EXTRA SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=306043&extension=ts&play_token=svfRp8nIUS
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 3 EXTRA SD" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 3 EXTRA SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=394573&extension=ts&play_token=GkmZAftkep
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC NEWS 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC NEWS 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=363049&extension=ts&play_token=zCohxWulIJ
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 4K 2160P ᵁᴴᴰ" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 4K 2160P ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=533513&extension=ts&play_token=K5Nmms1wlC
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 4K 1920P ᵁᴴᴰ" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 4K 1920P ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=533512&extension=ts&play_token=vruhHMLwjd
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 1 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301069&extension=ts&play_token=FGJEfFyFzy
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 2 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301067&extension=ts&play_token=5r6q8p9O50
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 3 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301065&extension=ts&play_token=FDWtE6LVeZ
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 4 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301063&extension=ts&play_token=owrgQIS3E1
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 5 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 5 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301061&extension=ts&play_token=MJ5pzN4ajm
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 1 EXTRA 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 1 EXTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301059&extension=ts&play_token=wua6HSMyAH
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 2 EXTRA 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 2 EXTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=301057&extension=ts&play_token=7KFQoNtPpO
+#EXTINF:-1 tvg-id="" tvg-name="VIP: SSC 3 EXTRA 4K" tvg-logo="" group-title="AR| SSC VIP 4K [MULTI AUDIO]", VIP: SSC 3 EXTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=394575&extension=ts&play_token=IWaQovkaqL
+#EXTINF:-1 tvg-id="" tvg-name="### beIN SP⚽RTS ULTRA 4K ###" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", ### beIN SP⚽RTS ULTRA 4K ###
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544459&extension=ts&play_token=8YbbBfSom5
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS NEWS ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS NEWS ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544458&extension=ts&play_token=O7rGDxYoYs
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS GLOBAL ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS GLOBAL ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544457&extension=ts&play_token=NVy2kuwcL7
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN 4K 2160P" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN 4K 2160P
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544456&extension=ts&play_token=e9xgwhR5Gk
+#EXTINF:-1 tvg-id="" tvg-name="AR: T⚽D 360 ULTRA 4K ( EVENT ONLY )" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: T⚽D 360 ULTRA 4K ( EVENT ONLY )
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=582403&extension=ts&play_token=19Il16HPrf
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 1 ULTRA 1 ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 1 ULTRA 1 ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=556125&extension=ts&play_token=dDwCertPpM
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 2 ULTRA ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 2 ULTRA ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=556124&extension=ts&play_token=eWJzs9XD0c
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 3 ULTRA ᵁᴴᴰ" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 3 ULTRA ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=556123&extension=ts&play_token=RXwQHo74bm
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 1 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 1 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544454&extension=ts&play_token=OCJBULzoi1
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 2 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 2 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544453&extension=ts&play_token=7DJaaKakKB
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 3 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 3 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544452&extension=ts&play_token=xkrzONoyil
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 4 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 4 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544451&extension=ts&play_token=urB0ZepdmH
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 5 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 5 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544450&extension=ts&play_token=TleqGDwfYQ
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 6 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 6 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544449&extension=ts&play_token=WQCy7ZoKG1
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 7 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 7 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544448&extension=ts&play_token=706xwkHKet
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 8 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 8 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544447&extension=ts&play_token=Te7vxEXHv8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 9 ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 9 ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544446&extension=ts&play_token=lZ4FV9wg5c
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 1 XTRA ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 1 XTRA ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544445&extension=ts&play_token=zogUOlmmKA
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 2 XTRA ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 2 XTRA ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544444&extension=ts&play_token=7dAxZaf4cY
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 3 XTRA ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 3 XTRA ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544443&extension=ts&play_token=0EyRPAZq0d
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 1 ENGLISH ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 1 ENGLISH ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544442&extension=ts&play_token=BKXoEtTnl8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 2 ENGLISH ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 2 ENGLISH ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544441&extension=ts&play_token=l32GXWRDYe
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 1 FRANCE ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 1 FRANCE ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544440&extension=ts&play_token=tfsVgauThm
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 2 FRANCE ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 2 FRANCE ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544439&extension=ts&play_token=cB1usxhhbe
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS 3 FRANCE ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS 3 FRANCE ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544438&extension=ts&play_token=GPnOfSgARZ
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN SP⚽RTS NBA ULTRA 4K" tvg-logo="" group-title="AR| BEIN SPORTS ULTRA 4K", AR: beIN SP⚽RTS NBA ULTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544437&extension=ts&play_token=DjJkMiB9I2
+#EXTINF:-1 tvg-id="" tvg-name="###### ALGERIA TV ######" tvg-logo="" group-title="AR| ALGERIA 4K", ###### ALGERIA TV ######
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=251802&extension=ts&play_token=yALb2zUzMK
+#EXTINF:-1 tvg-id="" tvg-name="AR: Echourouk News 4K" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Echourouk News 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3229&extension=ts&play_token=JG0vh2ejcr
+#EXTINF:-1 tvg-id="" tvg-name="AR: Echourouk News HD" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Echourouk News HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=499157&extension=ts&play_token=hA1rPpEzwJ
+#EXTINF:-1 tvg-id="" tvg-name="AR: Echourouk TV 4K" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Echourouk TV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3228&extension=ts&play_token=jmHDOZ2qtU
+#EXTINF:-1 tvg-id="" tvg-name="AR: Echourouk TV HD" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Echourouk TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=499158&extension=ts&play_token=yTgCGo3jkW
+#EXTINF:-1 tvg-id="" tvg-name="AR: AL24 News 4K" tvg-logo="" group-title="AR| ALGERIA 4K", AR: AL24 News 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=308464&extension=ts&play_token=WAf38NUQcG
+#EXTINF:-1 tvg-id="" tvg-name="AR: Samira TV 4K" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Samira TV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4475&extension=ts&play_token=nVIefCBnCj
+#EXTINF:-1 tvg-id="" tvg-name="AR: Jeel Dz TV 4K" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Jeel Dz TV 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=411439&extension=ts&play_token=IlZIJXq0NM
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algerie EN TV 1" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algerie EN TV 1
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=97196&extension=ts&play_token=u9iSuwqGT1
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algérie Canal TV 2" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algérie Canal TV 2
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4459&extension=ts&play_token=CqoZYVuAAB
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algeria A3 4K" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algeria A3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4458&extension=ts&play_token=vEX1Wvs72F
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algerie Tamazight TV 4" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algerie Tamazight TV 4
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4421&extension=ts&play_token=2isV0awlVw
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algérie TV 6 4K" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algérie TV 6 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=139310&extension=ts&play_token=XgjEkbsnIf
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algerie Elmaarifa TV7" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algerie Elmaarifa TV7
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=216112&extension=ts&play_token=pma7VF4RDC
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algerie Edhakira TV8" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algerie Edhakira TV8
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=216218&extension=ts&play_token=SmGfW3kaBI
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algeria TV Coran" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algeria TV Coran
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=97190&extension=ts&play_token=2OtmZ9INHv
+#EXTINF:-1 tvg-id="" tvg-name="AR: Algeria Salam TV" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Algeria Salam TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=389466&extension=ts&play_token=161M8tRg96
+#EXTINF:-1 tvg-id="" tvg-name="AR: Al Anis TV" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Al Anis TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=247721&extension=ts&play_token=Td4t69Ve2u
+#EXTINF:-1 tvg-id="" tvg-name="AR: Bahia TV" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Bahia TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3177&extension=ts&play_token=dyhpVZUlWh
+#EXTINF:-1 tvg-id="" tvg-name="AR: Berbere TV" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Berbere TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=218690&extension=ts&play_token=8KkTct7w8b
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Heddaf TV" tvg-logo="" group-title="AR| ALGERIA 4K", AR: El Heddaf TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3180&extension=ts&play_token=beEqCzrjiR
+#EXTINF:-1 tvg-id="" tvg-name="AR: Canal Atlas Algeria" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Canal Atlas Algeria
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=184940&extension=ts&play_token=5bk1J8WtuX
+#EXTINF:-1 tvg-id="" tvg-name="AR: Dzair Jannah" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Dzair Jannah
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=149769&extension=ts&play_token=zCor3WFX88
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Bilad" tvg-logo="" group-title="AR| ALGERIA 4K", AR: El Bilad
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3178&extension=ts&play_token=DYfu1eE9ag
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Djazair N1" tvg-logo="" group-title="AR| ALGERIA 4K", AR: El Djazair N1
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=201886&extension=ts&play_token=V8f5B64PEr
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Djazairia1" tvg-logo="" group-title="AR| ALGERIA 4K", AR: El Djazairia1
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3179&extension=ts&play_token=2mvABiaPEF
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Hayat Algeria 4K" tvg-logo="" group-title="AR| ALGERIA 4K", AR: El Hayat Algeria 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=3182&extension=ts&play_token=NhCdYnbMhT
+#EXTINF:-1 tvg-id="" tvg-name="AR: El Hayat Algeria HD" tvg-logo="" group-title="AR| ALGERIA 4K", AR: El Hayat Algeria HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=499155&extension=ts&play_token=zVfjdhysPA
+#EXTINF:-1 tvg-id="" tvg-name="AR: EL Watania TV Algeria" tvg-logo="" group-title="AR| ALGERIA 4K", AR: EL Watania TV Algeria
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=243373&extension=ts&play_token=yYycrcTMQb
+#EXTINF:-1 tvg-id="" tvg-name="AR: Ennahar TV" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Ennahar TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=4325&extension=ts&play_token=r8T78HPQ6i
+#EXTINF:-1 tvg-id="" tvg-name="AR: Zahra TV" tvg-logo="" group-title="AR| ALGERIA 4K", AR: Zahra TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=318682&extension=ts&play_token=mAIkvnKG1Y
+#EXTINF:-1 tvg-id="" tvg-name="AR: EL Fadjer Drama DZ" tvg-logo="" group-title="AR| ALGERIA 4K", AR: EL Fadjer Drama DZ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=411440&extension=ts&play_token=H7szPdAy0F
+#EXTINF:-1 tvg-id="" tvg-name="AR: RASD TV" tvg-logo="" group-title="AR| ALGERIA 4K", AR: RASD TV
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=576992&extension=ts&play_token=nva3LE6vR1
+#EXTINF:-1 tvg-id="" tvg-name="### BEIN SPORTS TELEKOM/ISP HD ###" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", ### BEIN SPORTS TELEKOM/ISP HD ###
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635769&extension=ts&play_token=0UrilxyLa5
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN 4K/HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN 4K/HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635768&extension=ts&play_token=11bOmP0fD4
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 1 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635767&extension=ts&play_token=xIpM1On8sJ
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 2 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635766&extension=ts&play_token=TOAUz7byIY
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 3 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635765&extension=ts&play_token=1khiKo6dO7
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 4 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635764&extension=ts&play_token=ZkoEa6Aey4
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 5 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635763&extension=ts&play_token=EAy9tm28yC
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 6 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 6 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635762&extension=ts&play_token=xcQLJV7PoF
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 7 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 7 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635761&extension=ts&play_token=AHvqoyMw8R
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 8 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 8 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635760&extension=ts&play_token=8hdz5RpPC2
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 9 HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 9 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635759&extension=ts&play_token=D2944tXAel
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 1 ENGLISH HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 1 ENGLISH HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635758&extension=ts&play_token=0QvIgmNIGo
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 2 ENGLISH HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 2 ENGLISH HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635757&extension=ts&play_token=Wt0BeHbgnA
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 1 XSTRA HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 1 XSTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635756&extension=ts&play_token=sHVk7AmBDU
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 2 XSTRA HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 2 XSTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635755&extension=ts&play_token=hS6zqrAXzh
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 3 XSTRA HD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 3 XSTRA HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635754&extension=ts&play_token=ffRMngtuT8
+#EXTINF:-1 tvg-id="" tvg-name="### BEIN SPORTS TELEKOM/ISP 4K ###" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", ### BEIN SPORTS TELEKOM/ISP 4K ###
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635752&extension=ts&play_token=ic0ae7V4yh
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635751&extension=ts&play_token=QTMIq6ycgP
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN 4K/UHD" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN 4K/UHD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635750&extension=ts&play_token=NkAA1jQEDD
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 1 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635749&extension=ts&play_token=whWtasIyd7
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 2 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635748&extension=ts&play_token=r4manKe9of
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 3 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635747&extension=ts&play_token=b8sLa9jTxo
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 4 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635746&extension=ts&play_token=IkUOgJoyy9
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 5 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 5 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635745&extension=ts&play_token=UVdzmZagwS
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 6 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 6 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635744&extension=ts&play_token=1GiAtT1yyJ
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 7 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 7 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635743&extension=ts&play_token=g0wr6eJdAM
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 8 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 8 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635742&extension=ts&play_token=HeeXjrOs7z
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 9 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 9 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635741&extension=ts&play_token=AgjDa9U1I3
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 1 ENGLISH 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 1 ENGLISH 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635740&extension=ts&play_token=HvFpAUK0Bv
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 2 ENGLISH 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 2 ENGLISH 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635739&extension=ts&play_token=eV0U9weVwo
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 1 XSTRA 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 1 XSTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635738&extension=ts&play_token=DpPiISy1k8
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 2 XSTRA 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 2 XSTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635737&extension=ts&play_token=DKaJkEPq5y
+#EXTINF:-1 tvg-id="" tvg-name="TK: beIN SP⚽RTS 3 XSTRA 4K" tvg-logo="" group-title="AR| BEIN TELEKOM ISP", TK: beIN SP⚽RTS 3 XSTRA 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=635736&extension=ts&play_token=hvY1LSK2Ig
+#EXTINF:-1 tvg-id="" tvg-name="##### beIN SP⚽RTS HD ◉ #####" tvg-logo="" group-title="AR| BEIN SPORTS ◉", ##### beIN SP⚽RTS HD ◉ #####
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544837&extension=ts&play_token=WgwX4VBgAc
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts AFC HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts AFC HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544836&extension=ts&play_token=GMXN1fEtPg
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 1 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544835&extension=ts&play_token=9mT1mLun4a
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 2 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 2 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544834&extension=ts&play_token=QSEt5HPOAb
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 3 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 3 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544833&extension=ts&play_token=hurC12SJKY
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 4 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 4 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544832&extension=ts&play_token=0Mh3jdLbGb
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 5 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 5 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544831&extension=ts&play_token=egGBdpLhbW
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 6 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 6 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544830&extension=ts&play_token=BYEu3LB1eA
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 7 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 7 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544829&extension=ts&play_token=BT5FiwqzON
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 8 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 8 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544828&extension=ts&play_token=MkeXyAbMCn
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 9 HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 9 HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544827&extension=ts&play_token=59ZNghhRot
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 XTRA HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 1 XTRA HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544826&extension=ts&play_token=twvh5nNBtq
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 2 XTRA HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 2 XTRA HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544825&extension=ts&play_token=CWHqGIyF21
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 3 XTRA HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 3 XTRA HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544824&extension=ts&play_token=9NWLCEW9qx
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts NBA HD ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts NBA HD ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544823&extension=ts&play_token=xo3ZckplPL
+#EXTINF:-1 tvg-id="" tvg-name="##### beIN SP⚽RTS 4K ◉ #####" tvg-logo="" group-title="AR| BEIN SPORTS ◉", ##### beIN SP⚽RTS 4K ◉ #####
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544822&extension=ts&play_token=Vj4OMgVyn5
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 1 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544821&extension=ts&play_token=R3hDKg8oyu
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 2 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 2 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544820&extension=ts&play_token=f59yaWrziU
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 3 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 3 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544819&extension=ts&play_token=ZtzxFdIdaX
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 4 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 4 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544818&extension=ts&play_token=sIaklpiTF0
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 5 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 5 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544817&extension=ts&play_token=kW1ILazTme
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 6 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 6 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544816&extension=ts&play_token=DGslXHBkkJ
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 7 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 7 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544815&extension=ts&play_token=YN3CjsoyqD
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 8 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 8 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544814&extension=ts&play_token=yAalmErI06
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 9 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 9 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544813&extension=ts&play_token=Sl48Tsmzke
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 XTRA 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 1 XTRA 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544812&extension=ts&play_token=owAKR4uXIv
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 2 XTRA 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 2 XTRA 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544811&extension=ts&play_token=YOmGBtCjEF
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 3 XTRA 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 3 XTRA 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544810&extension=ts&play_token=CCdLbFDXUu
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 ENGLISH 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 1 ENGLISH 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544807&extension=ts&play_token=B7YsTFY8bb
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 FRANCE 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 1 FRANCE 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544809&extension=ts&play_token=yuATFJvIZm
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 2 FRANCE 4K ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 2 FRANCE 4K ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544808&extension=ts&play_token=DCdaC2olK0
+#EXTINF:-1 tvg-id="" tvg-name="##### beIN SP⚽RTS HEVC ◉ #####" tvg-logo="" group-title="AR| BEIN SPORTS ◉", ##### beIN SP⚽RTS HEVC ◉ #####
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544806&extension=ts&play_token=JyebXY9ROO
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 1 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 1 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544805&extension=ts&play_token=GWIDKjEuYw
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 2 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 2 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544804&extension=ts&play_token=woMOamOSr8
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 3 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 3 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544803&extension=ts&play_token=xOqKHRjkPn
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 4 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 4 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544802&extension=ts&play_token=GVAcb85jee
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 5 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 5 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544801&extension=ts&play_token=ndJHixBsZB
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 6 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 6 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544800&extension=ts&play_token=pz7NrSpyc1
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 7 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 7 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544799&extension=ts&play_token=034AHrV9yj
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 8 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 8 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544798&extension=ts&play_token=s0iyPSUVX5
+#EXTINF:-1 tvg-id="" tvg-name="AR: beIN Sp⚽rts 9 HEVC ◉" tvg-logo="" group-title="AR| BEIN SPORTS ◉", AR: beIN Sp⚽rts 9 HEVC ◉
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=544797&extension=ts&play_token=R9O0DSqUjj
+#EXTINF:-1 tvg-id="" tvg-name="### FR DAZN PPV ###" tvg-logo="" group-title="FR| DAZN PPV", ### FR DAZN PPV ###
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637319&extension=ts&play_token=9FzbpGLRAw
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN CANAL+ LIGUE 1 ᵁᴴᴰ" tvg-logo="" group-title="FR| DAZN PPV", FR: DAZN CANAL+ LIGUE 1 ᵁᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637318&extension=ts&play_token=dhWxkEVnM6
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN CANAL+ LIGUE 1 SD" tvg-logo="" group-title="FR| DAZN PPV", FR: DAZN CANAL+ LIGUE 1 SD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637317&extension=ts&play_token=hFP1TGMF7z
+#EXTINF:-1 tvg-id="" tvg-name="FR: DAZN CANAL+ LIGUE 1 ᴴᴰ" tvg-logo="" group-title="FR| DAZN PPV", FR: DAZN CANAL+ LIGUE 1 ᴴᴰ
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637316&extension=ts&play_token=BXgJ2flYOn
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 1 HD (D): Canal+Ligue1 Uber Eats| Le Havre vs. Lyon| Sun 14 Jan 17:05" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 1 HD (D): Canal+Ligue1 Uber Eats| Le Havre vs. Lyon| Sun 14 Jan 17:05
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637315&extension=ts&play_token=RRO1t50pep
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 2 HD (D): NFL Game Pass| Packers @ Cowboys| Sun 14 Jan 22:30" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 2 HD (D): NFL Game Pass| Packers @ Cowboys| Sun 14 Jan 22:30
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637314&extension=ts&play_token=8mfJ7lna7s
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 3 HD (D): NFL Game Pass| Rams @ Lions| Mon 15 Jan 02:15" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 3 HD (D): NFL Game Pass| Rams @ Lions| Mon 15 Jan 02:15
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637313&extension=ts&play_token=u223krqvTg
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 4 HD (D): National 1 2023/2024| Sochaux vs. Nîmes| Mon 15 Jan 18:15" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 4 HD (D): National 1 2023/2024| Sochaux vs. Nîmes| Mon 15 Jan 18:15
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637312&extension=ts&play_token=Q3IaPY1WnM
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 5 HD (D): NFL Game Pass| Steelers @ Bills| Mon 15 Jan 22:30" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 5 HD (D): NFL Game Pass| Steelers @ Bills| Mon 15 Jan 22:30
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637311&extension=ts&play_token=T6MjFpoSFv
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 6 HD (D): NFL Game Pass| Manningcast: Eagles @ Buccaneers| Tue 16 Jan 02:00" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 6 HD (D): NFL Game Pass| Manningcast: Eagles @ Buccaneers| Tue 16 Jan 02:00
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637310&extension=ts&play_token=7poJ802MUF
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 7 HD (D): NFL Game Pass| Eagles @ Buccaneers| Tue 16 Jan 02:15" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 7 HD (D): NFL Game Pass| Eagles @ Buccaneers| Tue 16 Jan 02:15
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637309&extension=ts&play_token=kWNR3bDV52
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 8 HD (D): Basketball Champions League| Le Mans vs. Promitheas| Tue 16 Jan 20:30" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 8 HD (D): Basketball Champions League| Le Mans vs. Promitheas| Tue 16 Jan 20:30
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637308&extension=ts&play_token=MBBxsmqiNE
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 9 HD (D): Cup 2023/2024| Gent vs. Club Brugge| Tue 16 Jan 20:45" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 9 HD (D): Cup 2023/2024| Gent vs. Club Brugge| Tue 16 Jan 20:45
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637307&extension=ts&play_token=vxATj3vatR
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 10 HD (D): Cup 2023/2024| OH Leuven vs. Antwerp| Wed 17 Jan 18:30" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 10 HD (D): Cup 2023/2024| OH Leuven vs. Antwerp| Wed 17 Jan 18:30
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637306&extension=ts&play_token=PU7hKMH5ZQ
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 11 HD (D): Basketball Champions League| Cholet vs. Sassari| Wed 17 Jan 20:00" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 11 HD (D): Basketball Champions League| Cholet vs. Sassari| Wed 17 Jan 20:00
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637305&extension=ts&play_token=6bTKeL7U5X
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 12 HD (D): Cup 2023/2024| Union Saint_Gilloise vs. Anderlecht| Wed 17 Jan 20:30" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 12 HD (D): Cup 2023/2024| Union Saint_Gilloise vs. Anderlecht| Wed 17 Jan 20:30
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637304&extension=ts&play_token=blgrd9ERYI
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 13 HD (D): Division 1 Feminine| PSG vs. Reims| Wed 17 Jan 21:00" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 13 HD (D): Division 1 Feminine| PSG vs. Reims| Wed 17 Jan 21:00
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637303&extension=ts&play_token=Us4ACJJnVh
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 14 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 14 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637302&extension=ts&play_token=6U6jtulrvq
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 15 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 15 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637301&extension=ts&play_token=qGxlGTKQSc
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 16 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 16 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637300&extension=ts&play_token=N2d8d5dBU9
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 17 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 17 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637299&extension=ts&play_token=ARjZSxMAE2
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 18 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 18 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637298&extension=ts&play_token=9nzkFcGuC4
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 19 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 19 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637297&extension=ts&play_token=8xxCb7rnQt
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 20 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 20 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637296&extension=ts&play_token=Hjvr787L4I
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 21 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 21 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637295&extension=ts&play_token=JXxh72SJ88
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 22 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 22 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637294&extension=ts&play_token=1PZBTj68Fa
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 23 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 23 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637293&extension=ts&play_token=cLltBmfR9C
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 24 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 24 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637292&extension=ts&play_token=INyzH2HzvS
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 25 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 25 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637291&extension=ts&play_token=0IJqooyLhW
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 26 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 26 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637290&extension=ts&play_token=w06EmCW5hW
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 27 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 27 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637289&extension=ts&play_token=qCngygvAl9
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 28 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 28 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637288&extension=ts&play_token=ZUzSxP1OR7
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 29 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 29 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637287&extension=ts&play_token=qI4MOVLJDl
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 30 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 30 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637286&extension=ts&play_token=G16KOaZ57m
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 31 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 31 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637285&extension=ts&play_token=VSt6eI0nVO
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 32 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 32 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637284&extension=ts&play_token=NBilCGrm2H
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 33 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 33 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637283&extension=ts&play_token=oABLR7Jp2V
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 34 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 34 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637282&extension=ts&play_token=mVzthfaDcl
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 35 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 35 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637281&extension=ts&play_token=cgb0Zml0aF
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 36 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 36 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637280&extension=ts&play_token=wsgH9R2XKp
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 37 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 37 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637279&extension=ts&play_token=YL81Uw5F86
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 38 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 38 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637278&extension=ts&play_token=QAw0kqhL7E
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 39 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 39 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637277&extension=ts&play_token=Sl4gTV32wZ
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 40 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 40 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637276&extension=ts&play_token=zmdlQLIxHI
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 41 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 41 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637275&extension=ts&play_token=nE1RMZTdsC
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 42 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 42 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637274&extension=ts&play_token=fpMcFXgXCN
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 43 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 43 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637273&extension=ts&play_token=geURSoUUuL
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 44 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 44 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637272&extension=ts&play_token=YTamDOfhV5
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 45 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 45 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637271&extension=ts&play_token=46h1Jbb6dX
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 46 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 46 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637270&extension=ts&play_token=7ObKl1Egeh
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 47 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 47 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637269&extension=ts&play_token=EE0lRutgpw
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 48 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 48 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637268&extension=ts&play_token=ATQcRUmw9B
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 49 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 49 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637267&extension=ts&play_token=8PExpJZhSN
+#EXTINF:-1 tvg-id="" tvg-name="FR-DAZN 50 HD (D)" tvg-logo="" group-title="FR| DAZN PPV", FR-DAZN 50 HD (D)
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=637266&extension=ts&play_token=tXMJq9kOPA
+#EXTINF:-1 tvg-id="" tvg-name="#### SPORT HD/4K ####" tvg-logo="" group-title="FR| SPORT HD/4K", #### SPORT HD/4K ####
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=398863&extension=ts&play_token=J1RFwH7MfX
+#EXTINF:-1 tvg-id="" tvg-name="FR: Dazn 1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: Dazn 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636428&extension=ts&play_token=FfuLuqYDAf
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ 360 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ 360 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=394813&extension=ts&play_token=ZnbbayI34C
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FOOT 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ FOOT 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=394814&extension=ts&play_token=eNOpAP5Erl
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ SPORT 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=599983&extension=ts&play_token=on6J8GtLm8
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ SPORT HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ SPORT HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207154&extension=ts&play_token=u8W2Dby0KY
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FORMULA1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ FORMULA1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=529213&extension=ts&play_token=SDqqwLSJxl
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ Ligue1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ Ligue1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636429&extension=ts&play_token=MutyqjiMbb
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636430&extension=ts&play_token=D22ijKFQu0
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT 2 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636431&extension=ts&play_token=K0SsgHcRan
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT 3 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636432&extension=ts&play_token=qCyMZYlufO
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT 4 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636433&extension=ts&play_token=F0l10T6jpt
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT 5 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636434&extension=ts&play_token=2xAeLMisi9
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT CANAL 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636435&extension=ts&play_token=0pakP3zUKO
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 2 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT CANAL 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636436&extension=ts&play_token=IWMzQjgyfs
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 3 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT CANAL 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636437&extension=ts&play_token=GCkNQWY5ZZ
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 4 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT CANAL 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636438&extension=ts&play_token=J1LYfPWmAE
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ EVENT EXPERT CANAL 5 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: CANAL+ EVENT EXPERT CANAL 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=636439&extension=ts&play_token=Jdw49Py1VE
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORTS 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=107005&extension=ts&play_token=DSJonPfbSj
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: beIN SPORTS 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220942&extension=ts&play_token=qRoMqS41DH
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 2 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: beIN SPORTS 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220941&extension=ts&play_token=bODXY04Exz
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 2 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORTS 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=107006&extension=ts&play_token=SJ068XL7ED
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORTS 3 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORTS 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=107007&extension=ts&play_token=Eyy2p1n3Et
+#EXTINF:-1 tvg-id="" tvg-name="FR: beIN SPORTS 3 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: beIN SPORTS 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220940&extension=ts&play_token=dVHoY6C9U0
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 4 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN MAX 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207216&extension=ts&play_token=tpZdW6YnRR
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 5 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN MAX 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207217&extension=ts&play_token=FAnlE0BCac
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 6 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN MAX 6 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207218&extension=ts&play_token=AEy088QsbC
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 7 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN MAX 7 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207219&extension=ts&play_token=E9Hogujoyi
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 8 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN MAX 8 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207220&extension=ts&play_token=MI4j7WB9dZ
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 9 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN MAX 9 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207221&extension=ts&play_token=bhhHs2HT3W
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN MAX 10 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN MAX 10 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207222&extension=ts&play_token=KACCbOwWEy
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 4 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORT MAX 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220909&extension=ts&play_token=pfsUSEdhv8
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 5 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORT MAX 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220908&extension=ts&play_token=s1dkF4SqZt
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 6 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORT MAX 6 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220907&extension=ts&play_token=rEdHvbcLAq
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 7 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORT MAX 7 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220906&extension=ts&play_token=GnS5bOxocN
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 8 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORT MAX 8 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220905&extension=ts&play_token=X4BvvTZael
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 9 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORT MAX 9 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220904&extension=ts&play_token=XVbi5kroRy
+#EXTINF:-1 tvg-id="" tvg-name="FR: BEIN SPORT MAX 10 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: BEIN SPORT MAX 10 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220903&extension=ts&play_token=GxPLZkHxdk
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: EUROSPORT 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106946&extension=ts&play_token=PdNyCK43Ns
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: EUROSPORT 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207225&extension=ts&play_token=DYAy0rRbEY
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: EUROSPORT 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207224&extension=ts&play_token=951GR0YvjW
+#EXTINF:-1 tvg-id="" tvg-name="FR: EUROSPORT 2 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: EUROSPORT 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106947&extension=ts&play_token=rrB4z7U6qU
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR:  EUROSPORT 360 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=536689&extension=ts&play_token=CDjhlb9IvN
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 2 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR:  EUROSPORT 360 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=536690&extension=ts&play_token=XMbP0k4Bbc
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 3 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR:  EUROSPORT 360 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=536691&extension=ts&play_token=3iPJE91FAr
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 4 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR:  EUROSPORT 360 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=536692&extension=ts&play_token=x9OnNFL6tt
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 5 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR:  EUROSPORT 360 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=536693&extension=ts&play_token=g3wLZf0bB3
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 7 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR:  EUROSPORT 360 7 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=536695&extension=ts&play_token=lysNog2TOb
+#EXTINF:-1 tvg-id="" tvg-name="FR:  EUROSPORT 360 8 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR:  EUROSPORT 360 8 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=536696&extension=ts&play_token=DksovLrkNV
+#EXTINF:-1 tvg-id="" tvg-name="FR: EXTREME SPORTS HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: EXTREME SPORTS HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220936&extension=ts&play_token=wlsfWCL4RO
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF channel 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: GOLF channel 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106948&extension=ts&play_token=vnt67JhwuO
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Channel HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: Golf Channel HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220896&extension=ts&play_token=pupCEDl5zX
+#EXTINF:-1 tvg-id="" tvg-name="FR: Golf Plus HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: Golf Plus HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220937&extension=ts&play_token=eMqXKNjMNQ
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: GOLF+ 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106949&extension=ts&play_token=7qxgW3gR2M
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF+ HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: GOLF+ HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207257&extension=ts&play_token=X8ozcFAR8V
+#EXTINF:-1 tvg-id="" tvg-name="FR: INFOSPORT+ HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: INFOSPORT+ HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207223&extension=ts&play_token=Gqj2H0z4QM
+#EXTINF:-1 tvg-id="" tvg-name="FR: Equidia Live" tvg-logo="" group-title="FR| SPORT HD/4K", FR: Equidia Live
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=633876&extension=ts&play_token=A1HEixzZYK
+#EXTINF:-1 tvg-id="" tvg-name="FR: Infosport HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: Infosport HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220898&extension=ts&play_token=GcLs7M4neC
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: AB1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106921&extension=ts&play_token=nvhFinTbyq
+#EXTINF:-1 tvg-id="" tvg-name="FR: AB1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: AB1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207148&extension=ts&play_token=yFdXKhYLxs
+#EXTINF:-1 tvg-id="" tvg-name="FR: EQUIDIA LIVE HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: EQUIDIA LIVE HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207227&extension=ts&play_token=IGxkwnqhP7
+#EXTINF:-1 tvg-id="" tvg-name="FR: FOOT 24/24 + HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: FOOT 24/24 + HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207228&extension=ts&play_token=qmpxPLxEsH
+#EXTINF:-1 tvg-id="" tvg-name="FR: Foot24 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: Foot24 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220897&extension=ts&play_token=2XB5Msl43w
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC ACCESS SPORT 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165079&extension=ts&play_token=4Wgfb72IgV
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC ACCESS SPORT 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC ACCESS SPORT 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220925&extension=ts&play_token=7cm8CS0Z0g
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=&extension=ts&play_token=kuBT2OSvkP
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106913&extension=ts&play_token=tSuBJsZAVY
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=107009&extension=ts&play_token=ZP2sOqoKV8
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 2 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207258&extension=ts&play_token=a8T6UbAPPB
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=107010&extension=ts&play_token=egrMcjRwls
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 3 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207259&extension=ts&play_token=u2AMWfa7At
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=107011&extension=ts&play_token=pjmam1hYGJ
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 4 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207260&extension=ts&play_token=ohDgovjfUp
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 5 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 5 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165703&extension=ts&play_token=2ScBA36EcL
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 6 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 6 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165704&extension=ts&play_token=UWEWrFf3OI
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 7 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 7 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165705&extension=ts&play_token=vdWASa38jf
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 8 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 8 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165706&extension=ts&play_token=DBNZFm9Gwb
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 9 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 9 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165707&extension=ts&play_token=xChpPBIoLc
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 10 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 10 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165708&extension=ts&play_token=wUkprBAF6q
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 11 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 11 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165709&extension=ts&play_token=Y7URPbGbsd
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 12 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 12 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165710&extension=ts&play_token=ivvPjPHpxI
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 13 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 13 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165711&extension=ts&play_token=eVuUg5Sn9c
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 14 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 14 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165712&extension=ts&play_token=cf0sJNxW9D
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC SPORT 15 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC SPORT 15 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=165713&extension=ts&play_token=cUKg9w4jBQ
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 16 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 16 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=585273&extension=ts&play_token=0Omsek2D0c
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 17 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 17 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=585274&extension=ts&play_token=gTbQ6uM1jd
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 1 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 1 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220888&extension=ts&play_token=Tu1SyFZpFr
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220902&extension=ts&play_token=YDRfc3Hcqs
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 2 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 2 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220889&extension=ts&play_token=CEJVA2gMeV
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 2 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220901&extension=ts&play_token=oCWwY3gnIF
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 3 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 3 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220890&extension=ts&play_token=S9eqiQP0UA
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 3 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220900&extension=ts&play_token=qm2lpMoIro
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 4 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 4 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220891&extension=ts&play_token=UZG0KL3u3Z
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 4 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220939&extension=ts&play_token=PA1Pm3oo3n
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 5 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220899&extension=ts&play_token=PucI9xuFfE
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 6 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 6 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220953&extension=ts&play_token=UK5eTvalV1
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 7 4K" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 7 4K
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220952&extension=ts&play_token=2cUH8RV2Na
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 8 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 8 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220951&extension=ts&play_token=Wdok5YyVak
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 9 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 9 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220950&extension=ts&play_token=bqfyUtWtVL
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 10 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 10 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220949&extension=ts&play_token=icb4J5XvzA
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 11 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 11 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220948&extension=ts&play_token=BhheUeF7pO
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 13 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 13 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220946&extension=ts&play_token=2q650rBXFJ
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 14 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 14 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220945&extension=ts&play_token=SsLfbFp0VD
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 12 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 12 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220947&extension=ts&play_token=Iwxd3OlebR
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 15 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 15 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220944&extension=ts&play_token=D8SbkQofJ4
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport Live 16 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: RMC Sport Live 16 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=220943&extension=ts&play_token=7T69K49MfK
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO TV HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: AUTOMOTO TV HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207245&extension=ts&play_token=cpAYNOXVAF
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: AUTOMOTO HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=106922&extension=ts&play_token=4BB6mXrfMV
+#EXTINF:-1 tvg-id="" tvg-name="FR: AUTOMOTO HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: AUTOMOTO HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=207226&extension=ts&play_token=oOvzgdoA3O
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 1 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: MULTISPORTS 1 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=612643&extension=ts&play_token=QP7OXEcLjL
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 2 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: MULTISPORTS 2 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=612644&extension=ts&play_token=psqPMYaojy
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 3 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: MULTISPORTS 3 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=612645&extension=ts&play_token=pq12Km5VZP
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 4 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: MULTISPORTS 4 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=612646&extension=ts&play_token=pWLQS0nl41
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 5 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: MULTISPORTS 5 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=612647&extension=ts&play_token=eATGbpdhzf
+#EXTINF:-1 tvg-id="" tvg-name="FR: MULTISPORTS 6 HD" tvg-logo="" group-title="FR| SPORT HD/4K", FR: MULTISPORTS 6 HD
+http://king4k.tv:80/play/live.php?mac=00:1A:79:81:F4:CB&stream=612648&extension=ts&play_token=5TGcZbsPLA
